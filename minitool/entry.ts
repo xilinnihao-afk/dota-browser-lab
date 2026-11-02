@@ -1,0 +1,10 @@
+import './runtime/compat';
+import {installBrowserGestureGuard} from '../src/browser-gestures';
+import '../src/browser-gestures.css';
+import {bootstrap} from './runtime/platform';
+import {guard,fallback} from './runtime/render';
+import {bootGame} from '../src/classic/map-main';
+installBrowserGestureGuard(document);
+window.addEventListener('error',e=>fallback('画面运行出错：'+e.message));
+window.addEventListener('unhandledrejection',e=>fallback('资源未能读取：'+String(e.reason)));
+void guard(async()=>{await bootstrap();await bootGame();});

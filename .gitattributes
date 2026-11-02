@@ -1,0 +1,4 @@
+# Keep imported game resources byte-for-byte identical to their manifests.
+public/assets/imba/** -text
+public/assets/imba/resources/** -diff
+public/assets/original/** -text -diff

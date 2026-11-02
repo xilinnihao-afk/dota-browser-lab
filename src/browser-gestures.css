@@ -1,0 +1,6 @@
+/* Apply before the loading screen, independently of the mobile HUD breakpoint.
+   manipulation disables double-tap zoom while keeping native scrolling/pinching.
+   Canvas, joystick and skill controls retain their more specific touch-action:none. */
+html,body,button,a,input,textarea,select{touch-action:manipulation}
+/* A scrolling element may terminate touch-action ancestor checks before html. */
+.battle-shop,.battle-camps,.battle-result{touch-action:manipulation}

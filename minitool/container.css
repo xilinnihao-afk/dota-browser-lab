@@ -1,0 +1,37 @@
+html,body{width:100%;height:100%;margin:0;overflow:hidden}
+#minitool-stage{position:absolute;top:0;left:0;transform-origin:0 0;overflow:hidden}
+#app{width:100%;height:100%;min-height:0;overflow:hidden}
+body{-webkit-touch-callout:none}
+#app>.battle-ui{--safe-area-inset-top:0px;top:var(--native-top,var(--safe-area-inset-top,0px));bottom:0;height:auto}
+.touch-battle .battle-ui{--safe-left:12px;--safe-right:12px;--safe-bottom:14px;--safe-left:calc(12px + var(--safe-area-inset-left,0px));--safe-right:calc(12px + var(--safe-area-inset-right,0px));--safe-bottom:calc(14px + var(--safe-area-inset-bottom,0px))}
+.mobile-controls{display:block}.touch-battle .mobile-controls{display:block}
+.no-flex-gap .battle-menu>*+*,.no-flex-gap .mobile-tools>*+*{margin-left:4px}
+.no-flex-gap .mobile-roster>*+*{margin-left:7px}
+.no-flex-gap .selection-confirm>*+*{margin-top:4px}
+.no-flex-gap .battle-top>*+*{margin-left:6px}
+button:focus{outline:2px solid #daca8f;outline-offset:2px}
+#minitool-recovery{position:fixed;top:0;right:0;bottom:0;left:0;z-index:9999;background:#111b17;color:#f0dfb8;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:24px;text-align:center;font:16px/1.6 system-ui}
+#minitool-recovery[hidden]{display:none}
+#minitool-recovery p{max-width:460px}
+#minitool-recovery button{min-height:48px;margin-top:16px;padding:10px 24px;background:#485832;color:#fff5d6;border:1px solid #bfa46c;border-radius:6px}
+.map-loading .loading-caption{padding-top:var(--native-top,0px)}
+
+#minitool-orientation{min-width:44px;min-height:44px;color:#ffe2a0}
+#minitool-orientation[hidden]{display:none!important}
+body.is-playing #app>header,body.is-playing #app>footer{display:none}
+
+/* The UI already starts below the native top inset. Keep controls usable when
+   host chrome leaves a shallow landscape viewport. */
+.minitool-compact .touch-battle .classic-minimap{width:64px;height:64px;top:6px}
+.minitool-compact .touch-battle .classic-portrait{left:calc(var(--safe-left) + 80px);width:46px;height:48px;top:6px}
+.minitool-compact .touch-battle .classic-portrait-button{left:0;top:0;width:44px;height:44px}
+.minitool-compact .touch-battle .portrait-bars{display:none}
+.minitool-compact .touch-battle .move-stick{width:96px;height:96px;bottom:calc(var(--safe-bottom) + 8px)}
+.minitool-compact .touch-battle .stick-knob{width:44px;height:44px}
+.minitool-compact .touch-battle .stick-guide{padding-top:58px}
+.minitool-compact .touch-battle .mobile-stop{left:calc(var(--safe-left) + 126px);bottom:calc(var(--safe-bottom) + 92px)}
+.minitool-compact .touch-battle .mobile-combat{--skill-size:54px;--skill-gap:10px;height:116px}
+.minitool-compact .touch-battle .touch-attack{width:56px;height:56px}
+.minitool-compact .touch-battle .touch-attack span{bottom:6px;font-size:13px}
+.minitool-compact .touch-battle .touch-cancel{right:calc(var(--safe-right) + 200px);bottom:calc(var(--safe-bottom) + 100px);width:52px;height:52px}
+#minitool-stage .battle-menu .mobile-quality{position:static;min-width:44px;width:44px;height:44px;font-size:10px;line-height:1.3;white-space:normal;border:0;padding:0 3px}

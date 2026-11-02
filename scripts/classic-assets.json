@@ -1,0 +1,194 @@
+{
+  "description": "Classic Warcraft III local reference asset set. Not a DotA map or a verified game-patch baseline.",
+  "origin": "Hive Workshop public classic MPQ resource endpoint, referenced by mdx-m3-viewer clients/shared/localorhive.js",
+  "mdxVersion": 800,
+  "gamePatch": null,
+  "files": [
+    {
+      "path": "buildings/nightelf/ancientprotector/ancientprotector.blp",
+      "bytes": 96127,
+      "sha256": "6f7d587ee48e7f26de1222d1db12fc33b7fa1b5bd8389eff96a3db29c0f28593",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/buildings/nightelf/ancientprotector/ancientprotector.blp"
+    },
+    {
+      "path": "buildings/nightelf/ancientprotector/ancientprotector.mdx",
+      "bytes": 286563,
+      "sha256": "203214da044c60341dafd1d1f7f298aa4d41e7eec274e67d9caa93bd751549f7",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/buildings/nightelf/ancientprotector/ancientprotector.mdx"
+    },
+    {
+      "path": "buildings/nightelf/ancientprotector/db-rock.blp",
+      "bytes": 5792,
+      "sha256": "8cae6eec0fc1645b5b7565258fe80170cf39b572940f5a347b980f327e50eec3",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/buildings/nightelf/ancientprotector/db-rock.blp"
+    },
+    {
+      "path": "doodads/terrain/lordaerontree/lordaerontree0.mdx",
+      "bytes": 6713,
+      "sha256": "ecf3f96e56579217e1a422c011721a025c2e0c49cfbcb13d0bf37582f6577a74",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/doodads/terrain/lordaerontree/lordaerontree0.mdx"
+    },
+    {
+      "path": "doodads/terrain/lordaerontree/lordaerontree1.mdx",
+      "bytes": 6713,
+      "sha256": "307c8219594f4e0ce4c52aa557a824903eed161c9ca885abdfecc6e610858001",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/doodads/terrain/lordaerontree/lordaerontree1.mdx"
+    },
+    {
+      "path": "doodads/terrain/lordaerontree/lordaerontree2.mdx",
+      "bytes": 6524,
+      "sha256": "5156c26c6df0d1654f8917483ba421a20c83d38a4a3673dd1e29545c751eb30f",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/doodads/terrain/lordaerontree/lordaerontree2.mdx"
+    },
+    {
+      "path": "replaceabletextures/commandbuttons/btnheroblademaster.blp",
+      "bytes": 7917,
+      "sha256": "808b2d9981e2dd4d2d55a11963ec9f24a1a1bf0fc8f81e350b16893672ac4e5c",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/commandbuttons/btnheroblademaster.blp"
+    },
+    {
+      "path": "replaceabletextures/lordaerontree/lordaeronsummertree.blp",
+      "bytes": 73062,
+      "sha256": "9ccba954d15bc922ef551657e73b1272e722a3d41a6f746405ff3dd765c197d2",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/lordaerontree/lordaeronsummertree.blp"
+    },
+    {
+      "path": "replaceabletextures/selection/selectioncirclelarge.blp",
+      "bytes": 44870,
+      "sha256": "1b5cb24c47aa63cb91328471e16613e2058449c7494ffbab18a89be8f70eed71",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/selection/selectioncirclelarge.blp"
+    },
+    {
+      "path": "replaceabletextures/shadows/shadow.blp",
+      "bytes": 9372,
+      "sha256": "69001538858fd4c2571de5e987e4e245bd12f8dc670b26a4ac4ce67dc70dc18b",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/shadows/shadow.blp"
+    },
+    {
+      "path": "replaceabletextures/teamcolor/teamcolor00.blp",
+      "bytes": 1368,
+      "sha256": "db8efb0a2d76cb4e472c3395086f35391a25c81760509dc58ed109b79e1b9ef6",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/teamcolor/teamcolor00.blp"
+    },
+    {
+      "path": "replaceabletextures/teamcolor/teamcolor01.blp",
+      "bytes": 1368,
+      "sha256": "5521bd761c6bfdb34f742fb3acbe9b8d3a19d07bf6da323a2216e478b5817564",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/teamcolor/teamcolor01.blp"
+    },
+    {
+      "path": "replaceabletextures/teamglow/teamglow00.blp",
+      "bytes": 1655,
+      "sha256": "bfc0800307b317b820ee786e5c9587a13893f158f37680672bd98e077c923c38",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/teamglow/teamglow00.blp"
+    },
+    {
+      "path": "replaceabletextures/teamglow/teamglow01.blp",
+      "bytes": 1709,
+      "sha256": "c36510d9886113d75e484bc6599ec75f1afac6cd5fd8113cafc0a0ae3542d2b1",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/replaceabletextures/teamglow/teamglow01.blp"
+    },
+    {
+      "path": "terrainart/lordaeronsummer/lords_dirt.blp",
+      "bytes": 188664,
+      "sha256": "dda5c08229d4a4095f3e706bcbd7ff1fc9e3800679549d42d9fab84eb0f5f8e3",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/terrainart/lordaeronsummer/lords_dirt.blp"
+    },
+    {
+      "path": "terrainart/lordaeronsummer/lords_grass.blp",
+      "bytes": 198068,
+      "sha256": "9283d62743617a7659f59a087f0e99d5fb21e8ade3c1d226539b69435c51428f",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/terrainart/lordaeronsummer/lords_grass.blp"
+    },
+    {
+      "path": "textures/dust5a.blp",
+      "bytes": 3014,
+      "sha256": "4e61eb9a97de2d4ea94b3558d1350da267b85514ee2e680eed9eac18420727a6",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/dust5a.blp"
+    },
+    {
+      "path": "textures/flame4.blp",
+      "bytes": 4011,
+      "sha256": "26df51c4809a1d89511cef95064802745292070a38a8d2486fc6fbc3383d0f92",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/flame4.blp"
+    },
+    {
+      "path": "textures/footman.blp",
+      "bytes": 98795,
+      "sha256": "c16f3231e5b7a8cfa8bda2f2f9d9d2020a6c505a2b5d1e210276fe2430b1337b",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/footman.blp"
+    },
+    {
+      "path": "textures/genericglow2c.blp",
+      "bytes": 7575,
+      "sha256": "b13dbf0223cd16a0d3bb5f20a6d6d427980b467aa0343b3efbc1ea80145a9569",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/genericglow2c.blp"
+    },
+    {
+      "path": "textures/gutz.blp",
+      "bytes": 32988,
+      "sha256": "e60d550b8f426f2740159cafc1844c648556d1983914b2c72dfbd4843449490c",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/gutz.blp"
+    },
+    {
+      "path": "textures/heroblademaster.blp",
+      "bytes": 83863,
+      "sha256": "bef42b0db92c8a77967465e31382fe53c978649beed279316361cdbd57759dc8",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/heroblademaster.blp"
+    },
+    {
+      "path": "textures/peasant.blp",
+      "bytes": 83420,
+      "sha256": "6cee13dae12d54aebce1e9fef7c579d1e0ac66d258f10193dc4f26ce9ae4e376",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/peasant.blp"
+    },
+    {
+      "path": "textures/red_glow3.blp",
+      "bytes": 1943,
+      "sha256": "b05e048d80e56f51cd4741ce4c041b02bdc1fe8fd2eaf8f0aa8bd1d44683b64c",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/red_glow3.blp"
+    },
+    {
+      "path": "textures/ribbonblur1.blp",
+      "bytes": 3802,
+      "sha256": "4dcf7d2d6468f765277f84a7cfb1df4eb5995e6feb5e5ff43a6ed199841d96e8",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/ribbonblur1.blp"
+    },
+    {
+      "path": "textures/tornado2b.blp",
+      "bytes": 14907,
+      "sha256": "4b2cdcaf6f269f44fd50338cb22bef0d8507a03a1d4dbd8647e30e36e5e7fce3",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/tornado2b.blp"
+    },
+    {
+      "path": "textures/yellow_glow.blp",
+      "bytes": 2265,
+      "sha256": "a02958b0cd074fd01f1d83388a964aeaa84f633149dc07dbb5633f51b5f284ba",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/textures/yellow_glow.blp"
+    },
+    {
+      "path": "units/human/footman/footman.mdx",
+      "bytes": 105022,
+      "sha256": "7ee255776a6e757bd89766354df763201cd0519c488585b7c30151d5e313fc13",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/units/human/footman/footman.mdx"
+    },
+    {
+      "path": "units/orc/heroblademaster/heroblademaster.mdx",
+      "bytes": 183649,
+      "sha256": "b5a2700e41c30a8dc6428d1d2ee5e4b20e890234af2843d4c7b7c3a03643d7e7",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/units/orc/heroblademaster/heroblademaster.mdx"
+    },
+    {
+      "path": "units/undead/ghoul/ghoul.blp",
+      "bytes": 97616,
+      "sha256": "6c2d69a1526cb7eb78f4be05e8317695003fdc5a045a580c3915dbbe7ec138c4",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/units/undead/ghoul/ghoul.blp"
+    },
+    {
+      "path": "units/undead/ghoul/ghoul.mdx",
+      "bytes": 283776,
+      "sha256": "d7d68c5ebeca6ed076e76a96d2359649fb71c70fabfb5de25c38644a5943e622",
+      "sourceUrl": "https://www.hiveworkshop.com/data/static_assets/mpq/tft/units/undead/ghoul/ghoul.mdx"
+    }
+  ]
+}

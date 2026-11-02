@@ -1,0 +1,1173 @@
+{
+  "source": {
+    "file": "IMBA_3.83d_AI.w3x",
+    "sha256": "22fc5f3ca0470fe8a94662a7b377ed05c145a223aab11cd061a1d865dd08aed6"
+  },
+  "pathing": {
+    "width": 512,
+    "height": 512,
+    "sha256": "d505c39c66f1d1ed271dcd8815ba5ebeeba1692cc149a2a673a0fcfb251c24fb"
+  },
+  "files": {
+    "units/orc/heroblademaster/heroblademaster.mdx": {
+      "origin": "classic-reference",
+      "bytes": 183649,
+      "sha256": "b5a2700e41c30a8dc6428d1d2ee5e4b20e890234af2843d4c7b7c3a03643d7e7"
+    },
+    "units/nightelf/ent/ent.mdx": {
+      "origin": "classic-reference",
+      "bytes": 282029,
+      "sha256": "a2fce8ce83d009ef052ae3154a091d929dd24079f250e90da1a5b24bda695c2e"
+    },
+    "units/demon/chaoshellscream/chaoshellscream.mdx": {
+      "origin": "classic-reference",
+      "bytes": 157019,
+      "sha256": "d73689284c14decff3e5c16419243891ba0308dfe78dff35e53e72e30c262336"
+    },
+    "units/human/jaina/jaina.mdx": {
+      "origin": "classic-reference",
+      "bytes": 155949,
+      "sha256": "83432819c000648a327d899dc3b1e7688393f7356e362b02fac90dee5b73d211"
+    },
+    "units/undead/ghoul/ghoul.mdx": {
+      "origin": "classic-reference",
+      "bytes": 283776,
+      "sha256": "d7d68c5ebeca6ed076e76a96d2359649fb71c70fabfb5de25c38644a5943e622"
+    },
+    "units/nightelf/druidofthetalon/druidofthetalon.mdx": {
+      "origin": "classic-reference",
+      "bytes": 500667,
+      "sha256": "e78909df299809b4214299c45bd3ce1be1d535beb23cb3769b5d2ce7ce0f2729"
+    },
+    "units/undead/necromancer/necromancer.mdx": {
+      "origin": "classic-reference",
+      "bytes": 106193,
+      "sha256": "b8e5c0ea8a248c5cc98fe89b4d1719f3d05583e7f112bd0d161fdc84eaac39d0"
+    },
+    "buildings/undead/ziggurat/ziggurat.mdx": {
+      "origin": "classic-reference",
+      "bytes": 70923,
+      "sha256": "f859f038560512222762486dd363771fe6a0c6e78d3146bc5a834a0bf8c0e01a"
+    },
+    "buildings/nightelf/ancientprotector/ancientprotector.mdx": {
+      "origin": "classic-reference",
+      "bytes": 286563,
+      "sha256": "203214da044c60341dafd1d1f7f298aa4d41e7eec274e67d9caa93bd751549f7"
+    },
+    "units/creeps/satyr/satyr.mdx": {
+      "origin": "classic-reference",
+      "bytes": 141904,
+      "sha256": "875db9df594708b596702794b903bd27c8c91c67e2cea0055eb156f274c67b6e"
+    },
+    "units/creeps/polarfurbolg/polarfurbolg.mdx": {
+      "origin": "classic-reference",
+      "bytes": 166612,
+      "sha256": "1036cb6c710cb1a84dcab19bd052e7aac6f0c6005a61fc1d3e90b0f48ecb62a6"
+    },
+    "units/creeps/kobold/kobold.mdx": {
+      "origin": "classic-reference",
+      "bytes": 108596,
+      "sha256": "f0bd3a244105ac36eced5ce3990e982eac06900cf7192e92d48d286e831e1920"
+    },
+    "war3mapimported/final_export.mdx": {
+      "origin": "map",
+      "bytes": 36726,
+      "sha256": "02c28cff757337b6f7954d45658e41c527ba659f9f19ad989d9b9af803de8014"
+    },
+    "units/creeps/bansheeranger/bansheeranger.mdx": {
+      "origin": "classic-reference",
+      "bytes": 127373,
+      "sha256": "2d7e5dde19709b2cdad5e0e9eafa12068320040e6e4867da83d4f3069a57b65c"
+    },
+    "doodads/cinematic/lichking/lichking.mdx": {
+      "origin": "classic-reference",
+      "bytes": 51380,
+      "sha256": "5ed336f36a9c74d27578da44d56de371b0c58e16d0a9cdf345fc85549a3b1bf8"
+    },
+    "units/creeps/rockgolem/rockgolem.mdx": {
+      "origin": "classic-reference",
+      "bytes": 99753,
+      "sha256": "3d27b1b70fb067245a2202bc25584c1413b48c694d9cc8712e67eb2dd30aee1c"
+    },
+    "units/undead/herolich/herolich.mdx": {
+      "origin": "classic-reference",
+      "bytes": 214387,
+      "sha256": "f5ec9b5ea06808d41fb31430c138968b9dc61c395fdc1d3f97c10af35bdc2864"
+    },
+    "units/nightelf/herodemonhunter/herodemonhunter.mdx": {
+      "origin": "classic-reference",
+      "bytes": 388065,
+      "sha256": "83a5c1538397b5acbdfe126ac035a49952a53aa31841b97e6d74e07aabf731cb"
+    },
+    "units/undead/abomination/abomination.mdx": {
+      "origin": "classic-reference",
+      "bytes": 164674,
+      "sha256": "7b74ac4f6d4003e36e8e4bcbd6318f950283167d54811caf92b447aa5d96e22e"
+    },
+    "units/nightelf/heromoonpriestess/heromoonpriestess.mdx": {
+      "origin": "classic-reference",
+      "bytes": 115813,
+      "sha256": "49c6363736dcf60e9f191811178304cbb613d164abecb9f96df618550c96391d"
+    },
+    "units/human/sorceress/sorceress.mdx": {
+      "origin": "classic-reference",
+      "bytes": 108526,
+      "sha256": "6cfb1d8f402f724ba39f1f81038466f12c588d95bfd29c0a19924294d1e5d9c0"
+    },
+    "units/orc/tauren/tauren.mdx": {
+      "origin": "classic-reference",
+      "bytes": 212765,
+      "sha256": "eae59ad20c07472149cfa9eb4490dcd232b67d41e97762737f6879d3aef47deb"
+    },
+    "units/nightelf/herokeeperofthegrove/herokeeperofthegrove.mdx": {
+      "origin": "classic-reference",
+      "bytes": 394390,
+      "sha256": "083265d4d7e0edc3f576f142ea9860d9ab9fcd6bc4354fafa6d610f734401894"
+    },
+    "units/orc/witchdoctor/witchdoctor.mdx": {
+      "origin": "classic-reference",
+      "bytes": 134108,
+      "sha256": "dcef2f4eafa99bcf6047130483be06a53be3e30148d38dedb65c7922ff985b70"
+    },
+    "buildings/other/circleofpower/circleofpower.mdx": {
+      "origin": "classic-reference",
+      "bytes": 11028,
+      "sha256": "c596637ddf07db9707fa68deafe396afdacb6301641758bf53943d98831bb111"
+    },
+    "units/nightelf/wisp/wisp.mdx": {
+      "origin": "classic-reference",
+      "bytes": 32974,
+      "sha256": "02ca5bf4e00da28bbda5a5e5c7919b46747fc13e7ca033e66c86b0d68acca945"
+    },
+    "abilities/spells/orc/warstomp/warstompcaster.mdx": {
+      "origin": "classic-reference",
+      "bytes": 11053,
+      "sha256": "0a2cd9d3c7735d1b1dd98a3ef4b6c15011bd60c4d2a3f442fc8fb80ae359736f"
+    },
+    "abilities/spells/undead/frostnova/frostnovatarget.mdx": {
+      "origin": "classic-reference",
+      "bytes": 28981,
+      "sha256": "165b1e4b7a07d145df329619c22ddd0b2a5cfbb922519d4186fee988128fad22"
+    },
+    "abilities/spells/human/heal/healtarget.mdx": {
+      "origin": "classic-reference",
+      "bytes": 5429,
+      "sha256": "5f022ee9bc0593aa961a07b2785c2d485655b86ddde25b456549983a06392f0f"
+    },
+    "abilities/spells/other/levelup/levelupcaster.mdx": {
+      "origin": "classic-reference",
+      "bytes": 9085,
+      "sha256": "4e4f25308f691e7930b03453f92306765c86afb911ae63d9b0092bd692792400"
+    },
+    "abilities/spells/human/blizzard/blizzardtarget.mdx": {
+      "origin": "classic-reference",
+      "bytes": 9697,
+      "sha256": "b135cd4e4663d9ee390706c31f6abbd5baafea772742f8a52f33004066eb29ec"
+    },
+    "units/orc/healingward/healingward.mdx": {
+      "origin": "classic-reference",
+      "bytes": 15072,
+      "sha256": "b288bce631d32b60e3fcf9cdb1b4b84faaaea32362c14e5d1250ca8142a338ee"
+    },
+    "abilities/spells/other/stampede/stampedemissiledeath.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4589,
+      "sha256": "ac16f1e07afd8b5974902d625a6ed77d9a3a464a64551ba4a0441360a53f400a"
+    },
+    "abilities/weapons/ancientprotectormissile/ancientprotectormissile.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7300,
+      "sha256": "cfa329262f95785a3167d185ca70bf437cc00f8170a5e8b3ed0b3f9987878bdd"
+    },
+    "abilities/spells/undead/vampiricaura/vampiricauratarget.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3555,
+      "sha256": "8ebf4d5fd764a946d7d08a1c707f7024840673b1c3b27f8106c2226d33b4da2c"
+    },
+    "abilities/weapons/zigguratmissile/zigguratmissile.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6087,
+      "sha256": "3fb1e03b0cc3abc4d04ff238c70a41845603f3a721ce8b1a38cd882e49b65ad1"
+    },
+    "abilities/weapons/frostwyrmmissile/frostwyrmmissile.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3400,
+      "sha256": "fb95431bcaf004968e0cc60c2ff8c3421182b3a81c6ce6c3b41e801824be2b35"
+    },
+    "units/orc/heroblademaster/heroblademasterwhat1.wav": {
+      "origin": "classic-reference",
+      "bytes": 32298,
+      "sha256": "7362833e50167e0bbf253093d6baae9b4f28378073195072f195b2187d787aa9"
+    },
+    "units/orc/heroblademaster/heroblademasteryesattack1.wav": {
+      "origin": "classic-reference",
+      "bytes": 34496,
+      "sha256": "936fd49dea900121217070d0821d13085952932b0a9fe3c02e8e1ee76cbe839e"
+    },
+    "units/orc/heroblademaster/heroblademasteryes1.wav": {
+      "origin": "classic-reference",
+      "bytes": 57512,
+      "sha256": "70ac8fac3d2777a39e584a087cc4cc789ddbd8544ea026a0f071dc4af6db8652"
+    },
+    "units/orc/heroblademaster/heroblademasterdeath.wav": {
+      "origin": "classic-reference",
+      "bytes": 103738,
+      "sha256": "879c78e716d55c0359490c0dd7fd7943bae0c9c36181e833361ef1f0b2f397a4"
+    },
+    "units/orc/hellscream/gromwhat1.wav": {
+      "origin": "classic-reference",
+      "bytes": 44662,
+      "sha256": "6a880298a5240fd022d7345557cd15a4445ba70130ff2fcc2281aa88cbc13ab7"
+    },
+    "units/orc/hellscream/gromyes1.wav": {
+      "origin": "classic-reference",
+      "bytes": 57206,
+      "sha256": "f325e04106ebf080ca6c7beefccc8ccfc253d3d23da05a87f93ea913835c0640"
+    },
+    "units/orc/hellscream/gromyesattack1.wav": {
+      "origin": "classic-reference",
+      "bytes": 56694,
+      "sha256": "6a5989801318119c018f8b09f7539b62d27fd21f2960370dc2116f1972573bb4"
+    },
+    "units/human/jaina/jainawhat1.wav": {
+      "origin": "classic-reference",
+      "bytes": 29062,
+      "sha256": "f90426006fbc55daa8a4c6d890c5360aeabb69a3a5e686457d2dc23c544ad1bf"
+    },
+    "units/human/jaina/jainayes1.wav": {
+      "origin": "classic-reference",
+      "bytes": 36038,
+      "sha256": "26dc3d1c65124f4f4898bc58bf720900b37bd9606b04d2205035144f6b8eff2e"
+    },
+    "units/human/jaina/jainayesattack1.wav": {
+      "origin": "classic-reference",
+      "bytes": 64662,
+      "sha256": "4931d4f9aed66e6f760b720f60f5531c6efab8e12f42c0aa0b2d61cc7c5dc046"
+    },
+    "units/human/jaina/jainaonfootdeath1.wav": {
+      "origin": "classic-reference",
+      "bytes": 138870,
+      "sha256": "93bda57253945d6b57b25253fb5b9a5af4eff65d11e6b189a533a4cf208a52d6"
+    },
+    "sound/units/combat/metalheavysliceflesh1.wav": {
+      "origin": "classic-reference",
+      "bytes": 48738,
+      "sha256": "2a6fe1565b88ea0f0d71abfa0200724042d5c85ce7a7b78e14309efb95b995e4"
+    },
+    "sound/units/combat/rockheavybashflesh1.wav": {
+      "origin": "classic-reference",
+      "bytes": 52214,
+      "sha256": "45935f545f927c58d732694932969141ac81c0377d664e203f6de2e7aebd8302"
+    },
+    "abilities/spells/items/resourceitems/receivegold.wav": {
+      "origin": "classic-reference",
+      "bytes": 26102,
+      "sha256": "71cf2a06fbf2e423d0c3bcee3d0c6a772eb2a0e98a77de25b8f41d8bb06042c3"
+    },
+    "abilities/spells/human/blizzard/blizzardtarget1.wav": {
+      "origin": "classic-reference",
+      "bytes": 132344,
+      "sha256": "6d0e5567691bd692f43f0a8ddff609b8043c0c7d0ae22bba1599ccf0e9b9c661"
+    },
+    "sound/units/combat/rockheavybashstone1.wav": {
+      "origin": "classic-reference",
+      "bytes": 64630,
+      "sha256": "003d378f5f58ae92557ff0cab2faf4b2bd71796a48560381c25334fc85f3b3a8"
+    },
+    "abilities/spells/human/heal/healtarget.wav": {
+      "origin": "classic-reference",
+      "bytes": 61738,
+      "sha256": "5bc3cb4aa847820cac1ac934e1568700197ca988cdda424858b635aff8af670d"
+    },
+    "abilities/spells/human/revivehuman/revivehuman.wav": {
+      "origin": "classic-reference",
+      "bytes": 141264,
+      "sha256": "ea7cb2a873e9c0b16d0e73bff786e80017dd0264c506c5f60eec2ef987c0446d"
+    },
+    "replaceabletextures/commandbuttons/btnchaosgrom.blp": {
+      "origin": "classic-reference",
+      "bytes": 6905,
+      "sha256": "62d023e6bd712cb690790694a79d15770976550f91499d369ef533bada41489c"
+    },
+    "replaceabletextures/commandbuttons/btnjaina.blp": {
+      "origin": "classic-reference",
+      "bytes": 7860,
+      "sha256": "a240a3d00a7eed174b24bdfb4a54b08ba6ba28a6e31aa334793d2791087599ff"
+    },
+    "replaceabletextures/commandbuttons/btnhealingward.blp": {
+      "origin": "classic-reference",
+      "bytes": 9100,
+      "sha256": "c49ec53b84923688644e413bb205e52f1968df513bc6e6d0d2e2d21b48780b02"
+    },
+    "replaceabletextures/commandbuttons/btnheroblademaster.blp": {
+      "origin": "classic-reference",
+      "bytes": 7917,
+      "sha256": "808b2d9981e2dd4d2d55a11963ec9f24a1a1bf0fc8f81e350b16893672ac4e5c"
+    },
+    "replaceabletextures/selection/selectioncirclelarge.blp": {
+      "origin": "classic-reference",
+      "bytes": 44870,
+      "sha256": "1b5cb24c47aa63cb91328471e16613e2058449c7494ffbab18a89be8f70eed71"
+    },
+    "replaceabletextures/commandbuttons/btnwhirlwind.blp": {
+      "origin": "classic-reference",
+      "bytes": 8801,
+      "sha256": "99963a125223973c9ca9da455ee82b5531b75e5c14e587fee01f7cb4162a1374"
+    },
+    "replaceabletextures/commandbuttons/btncriticalstrike.blp": {
+      "origin": "classic-reference",
+      "bytes": 8637,
+      "sha256": "1435d3d86177467c6161ac63f2450b0d8e0f930c612063b3e2191608a6065de6"
+    },
+    "replaceabletextures/commandbuttons/btnberserk.blp": {
+      "origin": "classic-reference",
+      "bytes": 7234,
+      "sha256": "5851c357e7907d76c7c271da2a1aad203e2d6e49ddfe599c8568b94f4be24695"
+    },
+    "replaceabletextures/commandbuttons/btntaunt.blp": {
+      "origin": "classic-reference",
+      "bytes": 8519,
+      "sha256": "bae893ee193d074801791531948cc51ed61afa2d2280810c626edfed25c56753"
+    },
+    "replaceabletextures/commandbuttons/btncleavingattack.blp": {
+      "origin": "classic-reference",
+      "bytes": 7993,
+      "sha256": "cd3de270bc83181317052c239272734328accdc33d243a80f141fb4530245409"
+    },
+    "replaceabletextures/commandbuttons/btnglacier.blp": {
+      "origin": "classic-reference",
+      "bytes": 7682,
+      "sha256": "81a5f10854241eee9eef9dd567baf3cc7b9cfe7dfa220f78d3312c67b9ddb552"
+    },
+    "replaceabletextures/commandbuttons/btnfrostarmor.blp": {
+      "origin": "classic-reference",
+      "bytes": 8942,
+      "sha256": "095c6e64d846ed25f34dd1777547eaeea43879636d18aea2a26cc9bc25e5ced8"
+    },
+    "replaceabletextures/commandbuttons/btnblizzard.blp": {
+      "origin": "classic-reference",
+      "bytes": 7829,
+      "sha256": "e72072c478d3e7d52168a999a281f9407e6a3460b76a8219768b9bb325703cef"
+    },
+    "replaceabletextures/commandbuttons/btnarcanitemelee.blp": {
+      "origin": "classic-reference",
+      "bytes": 7771,
+      "sha256": "aaaff44fbed73dfb8aec6c9d49ca1d6d870a76b0ba11702f768045f5996ae440"
+    },
+    "replaceabletextures/commandbuttons/btnperiapt1.blp": {
+      "origin": "classic-reference",
+      "bytes": 9340,
+      "sha256": "ca33fa5c88d352950aad43d10896fe0ebfdb66e31f4b4d4aba5177c3177456c8"
+    },
+    "replaceabletextures/commandbuttons/btnclawsofattack.blp": {
+      "origin": "classic-reference",
+      "bytes": 8431,
+      "sha256": "fdbc11cc4ef3a15ed6ef62d013e50a580c40820a62d2076ba4fa1d5744ec78d1"
+    },
+    "replaceabletextures/commandbuttons/btnthoriumarmor.blp": {
+      "origin": "classic-reference",
+      "bytes": 8610,
+      "sha256": "93ceb35ed112452889f1b0a85c9ab18245b08d05e14b856254c2092887f20b8b"
+    },
+    "replaceabletextures/commandbuttons/btnmaskofdeath.blp": {
+      "origin": "classic-reference",
+      "bytes": 7728,
+      "sha256": "44307ff803c7fbdf9ea742034e72413a59c18b0e5901a8de97e8c64e742dabb2"
+    },
+    "replaceabletextures/commandbuttons/btnorboffrost.blp": {
+      "origin": "classic-reference",
+      "bytes": 8957,
+      "sha256": "432444b86a3c3f7f156688e6094d4b0de1f2425fb7e74f5b1a4d43302bacee29"
+    },
+    "replaceabletextures/commandbuttons/btnorbofslowness.blp": {
+      "origin": "classic-reference",
+      "bytes": 7281,
+      "sha256": "fbe325b533cd1e61adb1ff5a5daca14e1c1da07c1c36b2d459f44c4c1e906562"
+    },
+    "replaceabletextures/commandbuttons/btnorboffire.blp": {
+      "origin": "classic-reference",
+      "bytes": 7078,
+      "sha256": "e709f49c9da18f2a611acee829688dc130bfc0af592b7814d48cdc952bd4dbd3"
+    },
+    "replaceabletextures/commandbuttons/btnmove.blp": {
+      "origin": "classic-reference",
+      "bytes": 6068,
+      "sha256": "91dca83cfb083e4cec4268b99e21d04cfd57a6b95a06d3095d2dc57772b0bb1a"
+    },
+    "replaceabletextures/commandbuttons/btnstop.blp": {
+      "origin": "classic-reference",
+      "bytes": 6512,
+      "sha256": "ccc04e9024516c506c2434fb21d222a5e3fb2c6e8a74ebb7c485565fabf5be06"
+    },
+    "replaceabletextures/commandbuttons/btnattack.blp": {
+      "origin": "classic-reference",
+      "bytes": 7088,
+      "sha256": "b375258fc76ec8d877914ca4e343bc4225c7e792f49bbabbf7f36eb2b2dddd6e"
+    },
+    "replaceabletextures/commandbuttons/btnreturngoods.blp": {
+      "origin": "classic-reference",
+      "bytes": 6235,
+      "sha256": "2bb14c5bd007c635a24481a8a807b9bacd53510825f28929a265fb5fcd56aeaf"
+    },
+    "replaceabletextures/commandbuttons/btnchestofgold.blp": {
+      "origin": "classic-reference",
+      "bytes": 8930,
+      "sha256": "d5b0ff2194639c7c1d8cf33304cd8afb43d699359fc7b414210cb8dcfb97bad9"
+    },
+    "replaceabletextures/commandbuttons/btnbansheeranger.blp": {
+      "origin": "classic-reference",
+      "bytes": 8358,
+      "sha256": "724162bb63ad43ab8da01143ce4bd1d2a8d64d03d4207b390e1fcd5f19a963e8"
+    },
+    "replaceabletextures/commandbuttons/btnherodemonhunter.blp": {
+      "origin": "classic-reference",
+      "bytes": 8070,
+      "sha256": "378d3b979b69b0962d95a744e609b351953be7a3d2ca4d7ac1e6af7335792542"
+    },
+    "replaceabletextures/commandbuttons/btnabomination.blp": {
+      "origin": "classic-reference",
+      "bytes": 8825,
+      "sha256": "9d2214bea1b78012d4aeb7f93634e26bc79753abb0495ae8d2ef1d221fb27bbe"
+    },
+    "replaceabletextures/commandbuttons/btnherolich.blp": {
+      "origin": "classic-reference",
+      "bytes": 8877,
+      "sha256": "41e06abf5c6899e8875aa1bb596986e6ef3399a075c598cdc79d44a1cdbe3925"
+    },
+    "replaceabletextures/commandbuttons/btnheromoonpriestess.blp": {
+      "origin": "classic-reference",
+      "bytes": 7311,
+      "sha256": "3614e8dd2e3588e2bf54a0b732ab91809d002cc35a790f5be15ca1c1eec1785e"
+    },
+    "replaceabletextures/commandbuttons/btnsorceress.blp": {
+      "origin": "classic-reference",
+      "bytes": 7866,
+      "sha256": "ffe56e84848d0ce32c40243e5977b733679166a56030325229608469f58ab7d7"
+    },
+    "replaceabletextures/commandbuttons/btnkeeperofthegrove.blp": {
+      "origin": "classic-reference",
+      "bytes": 8206,
+      "sha256": "dbf41cdc3512154581229bb2b239151106c32f85ae2dc9bee74668d3cd6d568a"
+    },
+    "replaceabletextures/commandbuttons/btntauren.blp": {
+      "origin": "classic-reference",
+      "bytes": 7535,
+      "sha256": "78bb20d8e79ebf2af91f13cf87fff187e81353bafe872a2dc200fe4d276d6340"
+    },
+    "replaceabletextures/commandbuttons/btnwitchdoctor.blp": {
+      "origin": "classic-reference",
+      "bytes": 8166,
+      "sha256": "86cc8f7b47cf23b08c7e405f18293bac1a8b604900dcc16864b25f3e3197293a"
+    },
+    "replaceabletextures/commandbuttons/btnfeedback.blp": {
+      "origin": "classic-reference",
+      "bytes": 7746,
+      "sha256": "30c969b5cfb051283cad0303f9229d05c66efb71a60b9f55a26b2c350aea3d06"
+    },
+    "replaceabletextures/commandbuttons/btnblink.blp": {
+      "origin": "classic-reference",
+      "bytes": 6838,
+      "sha256": "6e1930c872afc1b5163bb163033c0e4ef032c6e63f6b3982b2a555a683a3582e"
+    },
+    "replaceabletextures/commandbuttons/btncoldarrows.blp": {
+      "origin": "classic-reference",
+      "bytes": 8266,
+      "sha256": "a985e286f304dfd85c5280ce4bf1a02e2079e667ed36421909a5464da596637a"
+    },
+    "replaceabletextures/commandbuttons/btnmanaburn.blp": {
+      "origin": "classic-reference",
+      "bytes": 7467,
+      "sha256": "dfa173b235d8a174b2a78fe9bdfb0265ca85b9f5fe6ee4330c8716d92f7e3a92"
+    },
+    "replaceabletextures/commandbuttons/btnsilence.blp": {
+      "origin": "classic-reference",
+      "bytes": 7227,
+      "sha256": "ea647f81a003750bb949fd59b3f33d0dc0a75f2bb66a1bf5e5da38e597a06ceb"
+    },
+    "replaceabletextures/commandbuttons/btnscatterrockets.blp": {
+      "origin": "classic-reference",
+      "bytes": 6750,
+      "sha256": "b6062a0a17fb53d01544853fe9ae2360d0308ee8004efb7ebb828b57910c0fc0"
+    },
+    "replaceabletextures/commandbuttons/btnplaguecloud.blp": {
+      "origin": "classic-reference",
+      "bytes": 8556,
+      "sha256": "c07e5c1d26502adc91e6c363f53ad8d5bd7bdd82a0b8036c64fd721ecab4cbab"
+    },
+    "replaceabletextures/commandbuttons/btnchainlightning.blp": {
+      "origin": "map",
+      "bytes": 3676,
+      "sha256": "f81f99a79b64520a1085f874910a42213b131b859516db25e5ed86bc7921aea7"
+    },
+    "replaceabletextures/commandbuttons/btncannibalize.blp": {
+      "origin": "classic-reference",
+      "bytes": 8611,
+      "sha256": "4e30756184f9f2d15b4bfc591c8079cc0c1ea31cb28f97089e0cc0659ad64878"
+    },
+    "replaceabletextures/commandbuttons/btnbreathoffire.blp": {
+      "origin": "classic-reference",
+      "bytes": 8625,
+      "sha256": "668e18df34df879dbc270f7d64ae24bb91acba8a3c4bce172fe4a9246ff4ed2d"
+    },
+    "replaceabletextures/commandbuttons/btnsearingarrows.blp": {
+      "origin": "classic-reference",
+      "bytes": 6457,
+      "sha256": "86044c0dc476cecf607c2c4b1d7774ebf043b6f3a9897510ec542129fa968d14"
+    },
+    "replaceabletextures/commandbuttons/btnstarfall.blp": {
+      "origin": "classic-reference",
+      "bytes": 7517,
+      "sha256": "ea867d2beb3d5e127a02709edde70fc01ed3df8598a8b57e6c0e9d268514b012"
+    },
+    "replaceabletextures/commandbuttons/btnentanglingroots.blp": {
+      "origin": "classic-reference",
+      "bytes": 8522,
+      "sha256": "6b3265dbe799de242ed7bc039de70e460a4b65cac0dedd341517f09a5dade241"
+    },
+    "replaceabletextures/commandbuttons/btnmassteleport.blp": {
+      "origin": "classic-reference",
+      "bytes": 8262,
+      "sha256": "79403358be4561a6346d41f41f5511b30cd9a417d8d34e2cf5aefdee332463c1"
+    },
+    "replaceabletextures/commandbuttons/btnthorns.blp": {
+      "origin": "classic-reference",
+      "bytes": 7439,
+      "sha256": "1cdfc9b4ae8659abec51708ce6ac0bb34a03d0ebe8f719cb7c22fe011625e069"
+    },
+    "replaceabletextures/commandbuttons/btnshockwave.blp": {
+      "origin": "classic-reference",
+      "bytes": 7835,
+      "sha256": "5d4916d75289d7896e366cc909fa819cc3ad5e211c2e52a5ead1764c0748c3ea"
+    },
+    "replaceabletextures/commandbuttons/btnwarstomp.blp": {
+      "origin": "classic-reference",
+      "bytes": 7253,
+      "sha256": "3b4b82ad2fbdbe7a9560e53d76f9b2cd161aa636344d7ce9003410a56d3ec76e"
+    },
+    "replaceabletextures/commandbuttons/btnhex.blp": {
+      "origin": "classic-reference",
+      "bytes": 7880,
+      "sha256": "2bf18d6707f1c851cc190ef0e39f9c1d8b547a6e31036e3f6faaf894cad18d0d"
+    },
+    "replaceabletextures/commandbuttons/btnserpentward.blp": {
+      "origin": "classic-reference",
+      "bytes": 7529,
+      "sha256": "1a80ad7aa43e0bcaa85fa54d56ecb6ffc7aa4eef6ee6d822a7f653fc7109b891"
+    },
+    "ui/console/undead/undeaduitile04.blp": {
+      "origin": "classic-reference",
+      "bytes": 88570,
+      "sha256": "7e3a18eb1d0cad260356e589e6c70a363410029e768b9450721992ee1d330526"
+    },
+    "textures/heroblademaster.blp": {
+      "origin": "classic-reference",
+      "bytes": 83863,
+      "sha256": "bef42b0db92c8a77967465e31382fe53c978649beed279316361cdbd57759dc8"
+    },
+    "ui/console/undead/undeaduitile01.blp": {
+      "origin": "classic-reference",
+      "bytes": 700230,
+      "sha256": "a363f74b5f99ba6c95785b6b2ac95244f33cc3b40b9d45c504675a20bfac8af5"
+    },
+    "replaceabletextures/teamglow/teamglow00.blp": {
+      "origin": "classic-reference",
+      "bytes": 1655,
+      "sha256": "bfc0800307b317b820ee786e5c9587a13893f158f37680672bd98e077c923c38"
+    },
+    "ui/console/undead/undeaduitile02.blp": {
+      "origin": "classic-reference",
+      "bytes": 700230,
+      "sha256": "e8bd54400ecf72d47a5f5a306f63ba2b456b6a53741da3eeed927e29146d33b5"
+    },
+    "ui/console/undead/undeaduitile03.blp": {
+      "origin": "classic-reference",
+      "bytes": 700230,
+      "sha256": "9fd4fc354fe4ae2d74e576994c7f882a547574ea73eace8904c09028630338cc"
+    },
+    "replaceabletextures/teamglow/teamglow01.blp": {
+      "origin": "classic-reference",
+      "bytes": 1709,
+      "sha256": "c36510d9886113d75e484bc6599ec75f1afac6cd5fd8113cafc0a0ae3542d2b1"
+    },
+    "replaceabletextures/teamglow/teamglow06.blp": {
+      "origin": "classic-reference",
+      "bytes": 1677,
+      "sha256": "487161ac56e96ecf5bf0aa92bf2c2fa48afb7f0c0ee9ceec996b8b5e17dee03d"
+    },
+    "replaceabletextures/teamglow/teamglow12.blp": {
+      "origin": "classic-reference",
+      "bytes": 1655,
+      "sha256": "0f341c3be7b6c43214c54c033d4f62e3947ca6fb027d878e61ff103bb9415cd5"
+    },
+    "textures/ribbonblur1.blp": {
+      "origin": "classic-reference",
+      "bytes": 3802,
+      "sha256": "4dcf7d2d6468f765277f84a7cfb1df4eb5995e6feb5e5ff43a6ed199841d96e8"
+    },
+    "replaceabletextures/teamcolor/teamcolor00.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "db8efb0a2d76cb4e472c3395086f35391a25c81760509dc58ed109b79e1b9ef6"
+    },
+    "replaceabletextures/teamcolor/teamcolor01.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "5521bd761c6bfdb34f742fb3acbe9b8d3a19d07bf6da323a2216e478b5817564"
+    },
+    "textures/flame4.blp": {
+      "origin": "classic-reference",
+      "bytes": 4011,
+      "sha256": "26df51c4809a1d89511cef95064802745292070a38a8d2486fc6fbc3383d0f92"
+    },
+    "replaceabletextures/teamcolor/teamcolor12.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "02ae9b33df5e996d3ded9de3d515fb6aa60720912e309885c495ba289afeb48a"
+    },
+    "replaceabletextures/teamcolor/teamcolor06.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "d799d93194182a56cd8cec408e11214ff5b965fee850bed72a2ec90331dddc98"
+    },
+    "textures/tornado2b.blp": {
+      "origin": "classic-reference",
+      "bytes": 14907,
+      "sha256": "4b2cdcaf6f269f44fd50338cb22bef0d8507a03a1d4dbd8647e30e36e5e7fce3"
+    },
+    "textures/red_glow3.blp": {
+      "origin": "classic-reference",
+      "bytes": 1943,
+      "sha256": "b05e048d80e56f51cd4741ce4c041b02bdc1fe8fd2eaf8f0aa8bd1d44683b64c"
+    },
+    "textures/genericglow2c.blp": {
+      "origin": "classic-reference",
+      "bytes": 7575,
+      "sha256": "b13dbf0223cd16a0d3bb5f20a6d6d427980b467aa0343b3efbc1ea80145a9569"
+    },
+    "textures/tornado1.blp": {
+      "origin": "classic-reference",
+      "bytes": 20063,
+      "sha256": "86ede879ad12fa385ffa78cda5c8ff427ab35c7e31207ddf04c791755b400834"
+    },
+    "units/human/jaina/jaina.blp": {
+      "origin": "classic-reference",
+      "bytes": 69260,
+      "sha256": "1168f4fda4348808b97f7744ce74c381568cac8717d7ed9b35a24f6ed792584b"
+    },
+    "textures/hellscreamchaos.blp": {
+      "origin": "classic-reference",
+      "bytes": 72027,
+      "sha256": "fc11695f202151a0be12ee09a4e9d7df91ce4b4b22897dcecf1f8fce85c19388"
+    },
+    "replaceabletextures/weather/clouds8x8.blp": {
+      "origin": "classic-reference",
+      "bytes": 118666,
+      "sha256": "6ce87e14a5f129cf390531660803694f13e44fc25dba05ff2853c7a622f0fc56"
+    },
+    "units/nightelf/ent/goodent.blp": {
+      "origin": "classic-reference",
+      "bytes": 78987,
+      "sha256": "994d7d369eb48d2021d56377f857afeaf19ec42d8f4179c1e2a601c4994bd428"
+    },
+    "units/nightelf/druidofthetalon/raven.blp": {
+      "origin": "classic-reference",
+      "bytes": 42850,
+      "sha256": "443d433a1c8f72583efbc480442bf5cbc974f73d91672f386ac3c088ea0fe571"
+    },
+    "units/nightelf/druidofthetalon/druidotthetalon.blp": {
+      "origin": "classic-reference",
+      "bytes": 86932,
+      "sha256": "4c6717fb4b6a7b021f6cb0bc46962c3b81ae6c6aa62fb1d7c60167baec3a565f"
+    },
+    "textures/gutz.blp": {
+      "origin": "classic-reference",
+      "bytes": 32988,
+      "sha256": "e60d550b8f426f2740159cafc1844c648556d1983914b2c72dfbd4843449490c"
+    },
+    "textures/clouds8x8.blp": {
+      "origin": "classic-reference",
+      "bytes": 117606,
+      "sha256": "0e07abf3289320564628e4359652e738c015cd7930d840b68e4d24b096ea88ea"
+    },
+    "units/nightelf/druidofthetalon/butterfly.blp": {
+      "origin": "classic-reference",
+      "bytes": 4418,
+      "sha256": "b24a655cfeceff590141cac71265098f79873a3e6b1cfbe44472da59c28a92f1"
+    },
+    "textures/star7b.blp": {
+      "origin": "classic-reference",
+      "bytes": 4044,
+      "sha256": "5902423893c11a3bcff38e271206ba77b0a85a11ee6d2b0522f3999c18cdc1e0"
+    },
+    "units/undead/ghoul/ghoul.blp": {
+      "origin": "classic-reference",
+      "bytes": 97616,
+      "sha256": "6c2d69a1526cb7eb78f4be05e8317695003fdc5a045a580c3915dbbe7ec138c4"
+    },
+    "textures/peasant.blp": {
+      "origin": "classic-reference",
+      "bytes": 83420,
+      "sha256": "6cee13dae12d54aebce1e9fef7c579d1e0ac66d258f10193dc4f26ce9ae4e376"
+    },
+    "units/undead/necromancer/necromancer.blp": {
+      "origin": "classic-reference",
+      "bytes": 79574,
+      "sha256": "105a8d7caac03a424364f454bb16bae5531458d89816752b8a5dc817710d8eb6"
+    },
+    "textures/newzigguratscarycreepytex.blp": {
+      "origin": "classic-reference",
+      "bytes": 96237,
+      "sha256": "f5dc912645e03d9e123a2a75509f973a315abd457108622b891a7e285501c51d"
+    },
+    "textures/ghost2.blp": {
+      "origin": "classic-reference",
+      "bytes": 3962,
+      "sha256": "0225ffcefdfe95fd308cf12881b142cd8a1656dbfc282748a73a01d82987c18c"
+    },
+    "textures/shockwavewater1.blp": {
+      "origin": "classic-reference",
+      "bytes": 12173,
+      "sha256": "420c9e802c84cf7708452b92d10400c6716118ee951bc2440ee38c14de5bf21c"
+    },
+    "buildings/nightelf/ancientprotector/ancientprotector.blp": {
+      "origin": "classic-reference",
+      "bytes": 96127,
+      "sha256": "6f7d587ee48e7f26de1222d1db12fc33b7fa1b5bd8389eff96a3db29c0f28593"
+    },
+    "textures/dust5a.blp": {
+      "origin": "classic-reference",
+      "bytes": 3014,
+      "sha256": "4e61eb9a97de2d4ea94b3558d1350da267b85514ee2e680eed9eac18420727a6"
+    },
+    "textures/bluesqglow.blp": {
+      "origin": "classic-reference",
+      "bytes": 2208,
+      "sha256": "52250525d58b4dba9e777f64f664aa18ac7671b51aa146ccf44dd84906f5c8cf"
+    },
+    "buildings/nightelf/ancientprotector/db-rock.blp": {
+      "origin": "classic-reference",
+      "bytes": 5792,
+      "sha256": "8cae6eec0fc1645b5b7565258fe80170cf39b572940f5a347b980f327e50eec3"
+    },
+    "textures/yellow_glow.blp": {
+      "origin": "classic-reference",
+      "bytes": 2265,
+      "sha256": "a02958b0cd074fd01f1d83388a964aeaa84f633149dc07dbb5633f51b5f284ba"
+    },
+    "units/creeps/polarfurbolg/polarfurbolg.blp": {
+      "origin": "classic-reference",
+      "bytes": 84430,
+      "sha256": "84089f6b939326bc2d2d9178997a950d3e55af59a252cf3b7dc47b147a9bea34"
+    },
+    "textures/satyr.blp": {
+      "origin": "classic-reference",
+      "bytes": 106807,
+      "sha256": "2f3d06a371b852aafab3b7ba33869aa9109ee0e16f946d355646377401af88bd"
+    },
+    "textures/star4.blp": {
+      "origin": "classic-reference",
+      "bytes": 7771,
+      "sha256": "226e4006f97c3a0e282eff2cd44c0336c541cf2f15e88ecfc3062c19ac6fe51b"
+    },
+    "doodads/ashenvale/structures/worldtree/worldtree256.blp": {
+      "origin": "classic-reference",
+      "bytes": 105245,
+      "sha256": "e5696af644cfb70ecef88aa3592586e6927280b0afe2db63ea846b59d632ab1e"
+    },
+    "units/creeps/kobold/kobold.blp": {
+      "origin": "classic-reference",
+      "bytes": 102905,
+      "sha256": "ad893b1e8126f34059a9fe460a424839283e5731315793bc33733e93d8ed1d5a"
+    },
+    "textures/clouds8x8fire.blp": {
+      "origin": "classic-reference",
+      "bytes": 144037,
+      "sha256": "f78c6653af9f43e01060814cef22b5b724cd817d9821755ec123ca17787931dd"
+    },
+    "textures/shockwave10.blp": {
+      "origin": "classic-reference",
+      "bytes": 9889,
+      "sha256": "8e6c572e8077f6246397a68c62e65364502e5faf10e6e773e28240a0b18462be"
+    },
+    "sharedmodels/teamglow00.tga": {
+      "origin": "classic-reference",
+      "bytes": 3116,
+      "sha256": "8eb294c3ab4cd832baed04cd182e853df3ac555da5081967a71ec97180393fdd"
+    },
+    "textures/deathsmug.blp": {
+      "origin": "classic-reference",
+      "bytes": 2653,
+      "sha256": "dc9bbdcbfe7892b007a82f9526e745b5fce34ddecb5332a114d228affd07f507"
+    },
+    "buildings/nightelf/ancientoflore/ancientoflore.blp": {
+      "origin": "classic-reference",
+      "bytes": 127195,
+      "sha256": "352bfbd280a6a3eebfec76aed9a45dfdb5fa030a4d6c75369a710d0ec62fef47"
+    },
+    "textures/ashennatural.blp": {
+      "origin": "classic-reference",
+      "bytes": 78599,
+      "sha256": "778331ffbb6d65fc08b5e619160f2bd3cfcb25fc45925d8b5ee58625b3a4ef94"
+    },
+    "buildings/nightelf/altarofelders/altar.blp": {
+      "origin": "classic-reference",
+      "bytes": 93986,
+      "sha256": "68c08ad5769a836629a1f36ed9120a35f523f04faaab0b3ba05afe61fc73fe99"
+    },
+    "buildings/nightelf/entangledgoldmine/lightbush.blp": {
+      "origin": "classic-reference",
+      "bytes": 31431,
+      "sha256": "9d1121578a27f0ae65c2eed5fc576d6ed9f6b13d3276f98a3c1f95dccf598482"
+    },
+    "units/creeps/rockgolem/rocktile.blp": {
+      "origin": "classic-reference",
+      "bytes": 11648,
+      "sha256": "9a61713e7e9392b067e96a67e1efff7bf15e959a206b709f9b0ecadf55305acd"
+    },
+    "textures/blue_glow2.blp": {
+      "origin": "classic-reference",
+      "bytes": 1958,
+      "sha256": "dcbf0770aa792883d3d7ad0b93052d5a9a1b264ac841dae43b7876f26cbfd793"
+    },
+    "units/creeps/rockgolem/rockgolem2.blp": {
+      "origin": "classic-reference",
+      "bytes": 46639,
+      "sha256": "29f1091adef01ab50657dfcc6094db7482a4457ae074c7e432ea9277ab15803e"
+    },
+    "textures/crystalopaque.blp": {
+      "origin": "classic-reference",
+      "bytes": 41054,
+      "sha256": "9a95259e24d9f989f4d1639078b2ebe18d2fb10b50a9146396829f3ce66d458e"
+    },
+    "textures/frozenthrone.blp": {
+      "origin": "classic-reference",
+      "bytes": 270314,
+      "sha256": "155d34dffe0f683525e7e77de6f5bac0dd882ddab84dbada713392d29432b932"
+    },
+    "textures/nerzularmor.blp": {
+      "origin": "classic-reference",
+      "bytes": 275946,
+      "sha256": "372d4087151456ac9eeaa668281e3c0edbdb7d9ff8e512ae03110927b42e91d0"
+    },
+    "textures/bluewaves.blp": {
+      "origin": "classic-reference",
+      "bytes": 4032,
+      "sha256": "e7d0827aac207d9a61ff60657e45afe59244c6dd4dbe30e3e14fc23ce405e539"
+    },
+    "textures/herodemonhunter.blp": {
+      "origin": "classic-reference",
+      "bytes": 106223,
+      "sha256": "5c7138b3a2fd09b7a2853e1814c6e9341354f5099ff2bb791204b0d3627ea520"
+    },
+    "textures/shadow.blp": {
+      "origin": "classic-reference",
+      "bytes": 2463,
+      "sha256": "25c09333782be211d1ae36bc27edbf73eada9e5619ff0d3110524220f7320297"
+    },
+    "textures/black32.blp": {
+      "origin": "classic-reference",
+      "bytes": 1503,
+      "sha256": "e4598a894b0fcc2c30a24d1f54059e022acb064286b5fcc32883764ab4560e4f"
+    },
+    "textures/dust5ablack.blp": {
+      "origin": "classic-reference",
+      "bytes": 3014,
+      "sha256": "ec7214bb551df15c769faa89fea905b32356eea6f827ec538d99ed5704a8b0dc"
+    },
+    "textures/clouds8x8mod.blp": {
+      "origin": "classic-reference",
+      "bytes": 70683,
+      "sha256": "03026ad2ef7ff5287c926fb44e97aae9fd9ab298cfc9ae1c509c35cc461a3ac1"
+    },
+    "textures/herolich.blp": {
+      "origin": "classic-reference",
+      "bytes": 86435,
+      "sha256": "21f22b819232c59c95bafd268710e794c06d5b7a7de739f807ef05dc457ec898"
+    },
+    "textures/clouds8x8fadewhite.blp": {
+      "origin": "classic-reference",
+      "bytes": 23131,
+      "sha256": "d901c825321da79c709a510015ee6d754ea5a9a0495ad70bd7a43837b48e3bd6"
+    },
+    "textures/zap1.blp": {
+      "origin": "classic-reference",
+      "bytes": 8314,
+      "sha256": "eee0fa72bdc07c8c64d74afdf8f8dc1b7232f226d2b78f0307cb46dd7cef38fa"
+    },
+    "textures/lensflare1a.blp": {
+      "origin": "classic-reference",
+      "bytes": 3222,
+      "sha256": "465162610e94a7200d75058180ba9bb7252af93a076cafa2bc874335a4392c49"
+    },
+    "textures/lightningball.blp": {
+      "origin": "classic-reference",
+      "bytes": 6316,
+      "sha256": "5c5598e31a3df29691e736c2966f4f581f9b9ff3f1c547c7a5e0c26d6ca351f7"
+    },
+    "textures/dust3.blp": {
+      "origin": "classic-reference",
+      "bytes": 4987,
+      "sha256": "339c746aa6d54a4ea901ce3eb47aa717e1170a97d91b0c6ed4ec28facca6be39"
+    },
+    "textures/clouds32_anim.blp": {
+      "origin": "classic-reference",
+      "bytes": 27909,
+      "sha256": "a7cd6304a389def3ece20a7d57ebae7715a53419eb50c74c2537da66ac692a20"
+    },
+    "textures/shockwavewater1black.blp": {
+      "origin": "classic-reference",
+      "bytes": 5678,
+      "sha256": "d85094ed93b66aa5806542b7a24df884740604dfbeb6e3596447d7a6c0ac2348"
+    },
+    "textures/bansheeranger.blp": {
+      "origin": "classic-reference",
+      "bytes": 87947,
+      "sha256": "fbed3ed2348c322d61a577f1b4438fbff74495e2fd2b4421afc6e3458e49e073"
+    },
+    "textures/clouds_anim1.blp": {
+      "origin": "classic-reference",
+      "bytes": 66935,
+      "sha256": "0ee1518a2f93a18dfa6e19939126472051102ba51744ea797612ca8cee76d2d6"
+    },
+    "textures/clouds8x8black.blp": {
+      "origin": "classic-reference",
+      "bytes": 10704,
+      "sha256": "67e4aa939ac8b20587f3a1d80df75a824e2964e7bd456637748395b94f44d841"
+    },
+    "textures/orcbloodtailparticle.blp": {
+      "origin": "classic-reference",
+      "bytes": 15693,
+      "sha256": "13746a7a1e429629652642926bb50cc8f712108c3d964d44b25ed51a99d4e78f"
+    },
+    "textures/bloodsput.blp": {
+      "origin": "classic-reference",
+      "bytes": 4871,
+      "sha256": "bc2f8b65c3df1b4f0807f9fa984aa02a9e7fe4fe322d56547b883cc2a80132b4"
+    },
+    "units/human/sorceress/sorceress.blp": {
+      "origin": "classic-reference",
+      "bytes": 92258,
+      "sha256": "6607749eab891fa5eed87a1966f9facea1be9d8458dc569035944bb41501465a"
+    },
+    "textures/abomination.blp": {
+      "origin": "classic-reference",
+      "bytes": 125213,
+      "sha256": "abeda0de846b224191edea1e8e6252fa7a5ac7aec36742a4cc765e846b482dc1"
+    },
+    "units/nightelf/heromoonpriestess/priestessofthemoon.blp": {
+      "origin": "classic-reference",
+      "bytes": 104795,
+      "sha256": "018a1381225ead0fd8f15cde892d4497b18c7e21f4933230208d9fe12788433d"
+    },
+    "textures/bloodsplash.blp": {
+      "origin": "classic-reference",
+      "bytes": 10643,
+      "sha256": "1f3c0024601593540d97e9394fccf3709966ec8e158786bd20ca3fa2163f7431"
+    },
+    "textures/flare.blp": {
+      "origin": "classic-reference",
+      "bytes": 2436,
+      "sha256": "c866d565f468b27c0bbcd06f0484d7f57c35d7aac2ccd58f0e84c818a3abdad2"
+    },
+    "textures/keepervines.blp": {
+      "origin": "classic-reference",
+      "bytes": 12158,
+      "sha256": "81f11beeb804edf804edcdaa14c873458b95d69bcf7127b76d1b31a20aabef25"
+    },
+    "units/orc/tauren/minotaur.blp": {
+      "origin": "classic-reference",
+      "bytes": 87611,
+      "sha256": "589048023c7853b9ff9a0ed602c9e124218d50bf35bb2f095f5680d3199e9314"
+    },
+    "textures/keeperofthegrove.blp": {
+      "origin": "classic-reference",
+      "bytes": 119098,
+      "sha256": "297687da98ba69ed658d3eb1c45f18ed14c61f5014a791d4fba84a6038c59930"
+    },
+    "units/orc/witchdoctor/witchdoctor.blp": {
+      "origin": "classic-reference",
+      "bytes": 80603,
+      "sha256": "99acc2c481fc98a95c00f71a986b002813bc388a1a6d7019794dbfc8069c66e2"
+    },
+    "buildings/other/circleofpower/rune2.blp": {
+      "origin": "classic-reference",
+      "bytes": 6981,
+      "sha256": "e899e133e8dee1c34660cd9061a4adfe5e16ffd0de935a92e68ef92e7f6431f1"
+    },
+    "buildings/other/circleofpower/circleofpower.blp": {
+      "origin": "classic-reference",
+      "bytes": 51032,
+      "sha256": "b64c46be3f64b5cae940da942d6256a3033f9455ebd8bef0dc0164f61cbf71d3"
+    },
+    "textures/aurarune8.blp": {
+      "origin": "classic-reference",
+      "bytes": 73852,
+      "sha256": "130fd6da3e89357944b20914ad276d220e084ccb4df612cba330a15fb66a3746"
+    },
+    "textures/star2_32.blp": {
+      "origin": "classic-reference",
+      "bytes": 2568,
+      "sha256": "58becb3b4a758b2d0dbde44584f78d975b43979fc49ae176c6c2cc748858079f"
+    },
+    "replaceabletextures/weather/cloudsingleflat.blp": {
+      "origin": "classic-reference",
+      "bytes": 3642,
+      "sha256": "81e07179b3e1504b67dc0ee67fe1056d0584b932ef6f9d5188a37cfb15f9e415"
+    },
+    "textures/dust5.blp": {
+      "origin": "classic-reference",
+      "bytes": 4694,
+      "sha256": "b68eeba061d22fcbca81c8b8142a4ee8262dae06f9f54777203a45bc64681971"
+    },
+    "textures/zap1_red.blp": {
+      "origin": "classic-reference",
+      "bytes": 8350,
+      "sha256": "e83dc23440cf013f520aaac16f2ed95fea8ca77c979de3814c2a8eef90e5c1bc"
+    },
+    "textures/grad2d.blp": {
+      "origin": "classic-reference",
+      "bytes": 5705,
+      "sha256": "002270ca6a18b7c13edc48092dd75241caa4633b981f92adfafef8b22fb4b952"
+    },
+    "textures/frost2.blp": {
+      "origin": "classic-reference",
+      "bytes": 4943,
+      "sha256": "3af333e3cd4de7d582be9930e375fae10e2abf9a7b0a5366efa217bddc2e7162"
+    },
+    "textures/ice3b.blp": {
+      "origin": "classic-reference",
+      "bytes": 4650,
+      "sha256": "bd02f6859151262b06e9b623de60aac823ecdc6250e6aed3a3ea62bb48c5fbf9"
+    },
+    "textures/snowflake2.blp": {
+      "origin": "classic-reference",
+      "bytes": 13573,
+      "sha256": "c7531781df7ef7e042c6954f8a8f41a5903be9b948ffa3afa005215160026b70"
+    },
+    "textures/yellow_star_dim.blp": {
+      "origin": "classic-reference",
+      "bytes": 3724,
+      "sha256": "45d936c52a8e92240851fbfdb0f81444efdacf5656c0588115f93702575659ec"
+    },
+    "textures/star5tga.blp": {
+      "origin": "classic-reference",
+      "bytes": 4660,
+      "sha256": "ddb78ebf4f589177fd47753572d38d28e4f83e17558fe8b5861073ba742250e7"
+    },
+    "textures/yellow_glow_dim2.blp": {
+      "origin": "classic-reference",
+      "bytes": 1981,
+      "sha256": "8e244a18289c0c49625b5057998fcba112ac5d61c9068550886238b650bd3735"
+    },
+    "textures/firering4.blp": {
+      "origin": "classic-reference",
+      "bytes": 3681,
+      "sha256": "5b3c610b6e56720d458ff81ff81b1fda30252ef435816c99bea38af83e1657c7"
+    },
+    "textures/shockwave_blue.blp": {
+      "origin": "classic-reference",
+      "bytes": 3845,
+      "sha256": "f18474c6b6e3b292398c5fcc7d0200fe681aa34f2aa03193e0e41c80430ca610"
+    },
+    "textures/ice.blp": {
+      "origin": "classic-reference",
+      "bytes": 3915,
+      "sha256": "43444bce1c6c162d8413a52a2a14defc59449a62021b31738d81e11b4d53918d"
+    },
+    "textures/frost3.blp": {
+      "origin": "classic-reference",
+      "bytes": 5057,
+      "sha256": "67a5754d666e8d460a9bf796c2c9bc8ec10fcb5d24545c935c2435d3ca2ea19b"
+    },
+    "abilities/spells/human/blizzard/frost3test.blp": {
+      "origin": "classic-reference",
+      "bytes": 2096,
+      "sha256": "89c4c30335c5b0585cf8b98d25b89fc173961f8afde9e2609cd98bfcf42135b2"
+    },
+    "textures/wards1.blp": {
+      "origin": "classic-reference",
+      "bytes": 40021,
+      "sha256": "4f2c9eb1e41c3d1e612bb84cb546bfe209b559d73328518b3cc1c78a7b2d2d01"
+    },
+    "textures/red_glow2.blp": {
+      "origin": "classic-reference",
+      "bytes": 1872,
+      "sha256": "a27bd78b60bd9d06f57976b33474dd492bf345d95ea6ded93beaf98cce6d907a"
+    },
+    "units/orc/healingward/rune3.blp": {
+      "origin": "classic-reference",
+      "bytes": 6237,
+      "sha256": "069e70f87a509d50e96a19009272c17ff5db7bebce00d1a99c3a290dda3b3fba"
+    },
+    "textures/genericglowfaded.blp": {
+      "origin": "classic-reference",
+      "bytes": 8215,
+      "sha256": "aa77fb0d8d826f325b96b4f9266bb82f2d4152909ee94dd59f8b8a75a86c8f3d"
+    },
+    "units/orc/healingward/rune2.blp": {
+      "origin": "classic-reference",
+      "bytes": 5662,
+      "sha256": "91b50399baad5144f66b645cba684679053e4bb9a49d3dfdcdb8976a5de755c6"
+    },
+    "textures/shockwave1white.blp": {
+      "origin": "classic-reference",
+      "bytes": 15511,
+      "sha256": "1baf9ca67571b9358ef40bfcab37052f718c2f2dcdc884b3e6fed35837650566"
+    },
+    "textures/shockwave1b.blp": {
+      "origin": "classic-reference",
+      "bytes": 2641,
+      "sha256": "849a683a53112157e9a6c8e50e6bcbebcb3a3854c79d4e1ab4c1d87bc46aefc8"
+    },
+    "textures/db-rock.blp": {
+      "origin": "classic-reference",
+      "bytes": 5801,
+      "sha256": "7802a77a4347bfae1195be01e8ce991ae35d3632096e0e0a43b22edd72921c27"
+    },
+    "textures/raintail.blp": {
+      "origin": "classic-reference",
+      "bytes": 2586,
+      "sha256": "77ccc03ef285192e0d306f0c297eaf24034ee3ad12b2c05b3b077f4c28f2a802"
+    },
+    "textures/rock64.blp": {
+      "origin": "classic-reference",
+      "bytes": 7778,
+      "sha256": "8459f42285cdcaed1d6ebbf0ddf727dbcf5483402b2435e5358d891033d008a6"
+    },
+    "textures/snowflake.blp": {
+      "origin": "classic-reference",
+      "bytes": 10800,
+      "sha256": "c8517658812785d583954ac6b4dba5560ac4a7d1dad0136dd5ec85b13aa18c4e"
+    },
+    "ui/derived/minimap.png": {
+      "origin": "derived-classic-console",
+      "bytes": 102338,
+      "sha256": "63251911709fd5c2d55f589701acba60b017158028bfd93a1ed648097bdab62c"
+    },
+    "ui/derived/portrait.png": {
+      "origin": "derived-classic-console",
+      "bytes": 73559,
+      "sha256": "ad10aad777a71fd708749050623ca0e4cee74a0b264046db95877485f73371d3"
+    },
+    "ui/derived/info.png": {
+      "origin": "derived-classic-console",
+      "bytes": 61467,
+      "sha256": "392f786cd1cabff9e4b8f7f507893115e820199ae6a8fd6e5f919f8fea1263b4"
+    },
+    "ui/derived/inventory.png": {
+      "origin": "derived-classic-console",
+      "bytes": 102808,
+      "sha256": "ae4fcd07f80d78604af8ca8087c9b69508a251079dcc9fd9101ba651ecf3a274"
+    },
+    "ui/derived/commands.png": {
+      "origin": "derived-classic-console",
+      "bytes": 98976,
+      "sha256": "15bcd03a946d7ac2abe77be00a457d608904590e4f9e984df9bc882ed26924a5"
+    },
+    "ui/derived/top.png": {
+      "origin": "derived-classic-console",
+      "bytes": 62483,
+      "sha256": "d8b3b3e80074c7a9c9604e0d8351fb4c064cbbd85dee4cd2dd933b7879797c2d"
+    }
+  }
+}

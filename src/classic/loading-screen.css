@@ -1,0 +1,24 @@
+.map-loading{position:fixed;inset:0;z-index:1000;transform:none;width:auto;padding:0;border:0;background:#060a0b;color:#eee3c6;box-shadow:none;font-family:Georgia,"Songti SC",serif;overflow:hidden}
+.loading-art,.loading-vignette{position:absolute;inset:0;pointer-events:none}
+.loading-art img{position:absolute;width:100%;height:100%;object-fit:cover;object-position:center 40%;animation:loading-slides 12s infinite both}
+.loading-art img:nth-child(2){animation-delay:-6s}
+@keyframes loading-slides{0%,43%{opacity:1}50%,93%{opacity:0}100%{opacity:1}}
+.loading-vignette{background:linear-gradient(180deg,#02070855,transparent 30%,#02060918 50%,#020509bd 79%,#020507f5),linear-gradient(90deg,#0004,transparent 30%,transparent 70%,#0004)}
+.loading-caption{position:absolute;left:6vw;bottom:24%;text-shadow:0 3px 16px #000}
+.loading-caption>span{font:10px/1.6 system-ui;letter-spacing:.26em;color:#d5c49a}
+.map-loading .loading-caption h1{font-size:clamp(36px,5.8vw,80px);line-height:1;margin:14px 0 12px;letter-spacing:.08em;font-weight:normal;color:#fff0ce}
+.loading-caption h1 small{font-size:.45em;letter-spacing:.04em;color:#dcc99c}
+.map-loading .loading-caption p{font:14px/1.5 "Songti SC",serif;letter-spacing:.28em;margin:0;color:#d7cbb2}
+.loading-footer{position:absolute;left:6vw;right:6vw;bottom:max(5vh,24px)}
+.loading-progress-heading{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin-bottom:12px;font:13px/1.5 system-ui;color:#d2c8b1}
+.loading-progress-heading strong{font:28px/1 Georgia,serif;color:#f3dfab;min-width:4ch;text-align:right;font-variant-numeric:tabular-nums}
+.map-loading progress{display:block;appearance:none;width:100%;height:12px;border:1px solid #9f8754;padding:2px;background:#080b0de0;box-shadow:0 0 0 2px #080b0d,0 0 18px #000;accent-color:#c1a55d}
+.map-loading progress::-webkit-progress-bar{background:#11191d}
+.map-loading progress::-webkit-progress-value{background:linear-gradient(#f1dda0,#b4914e 48%,#715a31);box-shadow:0 0 12px #ffe0a0}
+.map-loading progress::-moz-progress-bar{background:linear-gradient(#f1dda0,#b4914e 48%,#715a31)}
+.map-loading .loading-tip{font:11px/1.8 system-ui;color:#aaa99f;margin:13px 0 0;overflow-wrap:anywhere}
+.loading-retry{margin-top:12px;padding:8px 24px;border:1px solid #b99854;background:#262719;color:#f3dfab;cursor:pointer}
+.loading-retry[hidden]{display:none}
+.loading-failed .loading-progress-heading{color:#edb6a0}
+@media(prefers-reduced-motion:reduce){.loading-art img{animation:none}.loading-art img:nth-child(2){display:none}}
+@media(max-width:650px){.loading-caption{bottom:28%;left:5vw}.loading-footer{left:5vw;right:5vw}.loading-caption>span{font-size:8px;letter-spacing:.12em}.loading-progress-heading{font-size:11px}.loading-progress-heading strong{font-size:24px}}

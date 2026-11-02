@@ -1,0 +1,2340 @@
+{
+  "source": {
+    "name": "IMBA 3.83d AI",
+    "file": "IMBA_3.83d_AI.w3x",
+    "bytes": 7549587,
+    "sha256": "22fc5f3ca0470fe8a94662a7b377ed05c145a223aab11cd061a1d865dd08aed6"
+  },
+  "files": {
+    "c.mpq": {
+      "origin": "classic-reference",
+      "bytes": 2302821,
+      "sha256": "766eeb066368d297ea7ddc64586b43f9a9aee1ec04df10a9dff3161e6227b86f"
+    },
+    "units/unitui.slk": {
+      "origin": "map",
+      "bytes": 747723,
+      "sha256": "7767c258c0c55ef3a32c919ec882b8cf586dda627f351384761bcf2bc437e1df"
+    },
+    "terrainart/terrain.slk": {
+      "origin": "classic-reference",
+      "bytes": 50162,
+      "sha256": "ea046ed80be44c984917b0a284fe91144d57e40083ecfcf847c510b3d44cd3ce"
+    },
+    "terrainart/water.slk": {
+      "origin": "classic-reference",
+      "bytes": 12863,
+      "sha256": "8c5b8580da80d00380db8c144ae8eb64730a07975de99eb11fa3222639bdf699"
+    },
+    "terrainart/clifftypes.slk": {
+      "origin": "classic-reference",
+      "bytes": 7573,
+      "sha256": "200d75101bb0eaea4853d9f34df27c65e00513eb42af5fb11908dfd74eefa999"
+    },
+    "doodads/doodads.slk": {
+      "origin": "classic-reference",
+      "bytes": 403856,
+      "sha256": "f5ad06d72286223ac010659ed760ae249ce85181d32caffff9c14acde3430574"
+    },
+    "doodads/doodadmetadata.slk": {
+      "origin": "classic-reference",
+      "bytes": 7994,
+      "sha256": "30715525db91e74233bde0e482618fa682527335d4584317229398854bb0ba5a"
+    },
+    "units/destructabledata.slk": {
+      "origin": "classic-reference",
+      "bytes": 209563,
+      "sha256": "f84e8717a58d8c38a69f84c6a95517966e5baf78e075f02c5c4bd38e42344e3b"
+    },
+    "units/destructablemetadata.slk": {
+      "origin": "classic-reference",
+      "bytes": 11617,
+      "sha256": "2a2b107f8d1e2ce444cdddd3b5e2dcbdc5417747ce09eacf609de8f982c46942"
+    },
+    "splats/ubersplatdata.slk": {
+      "origin": "map",
+      "bytes": 15729,
+      "sha256": "e29c7db5a33bd3ce2ee835999b5d63048333137b535f73eef03ea83d2b305bc4"
+    },
+    "units/humanunitfunc.txt": {
+      "origin": "map",
+      "bytes": 89973,
+      "sha256": "ec199f9ccf07541c61e636aa19fa70e3113bf111a8b3777720a7c7782351a9f3"
+    },
+    "units/orcunitfunc.txt": {
+      "origin": "map",
+      "bytes": 15969,
+      "sha256": "5e569174644aa41cc26ce6762faf1681e2c6380180b760ebfc236cde55829746"
+    },
+    "units/nightelfunitfunc.txt": {
+      "origin": "map",
+      "bytes": 29959,
+      "sha256": "3f93552d4fd0500e82398968683eb4a56f6c39389b55fcbf1cdd66db6f5684b9"
+    },
+    "units/undeadunitfunc.txt": {
+      "origin": "map",
+      "bytes": 23198,
+      "sha256": "98be0502cb6a869d3f26c697236ab20162a8034552ad5373137a2ae64c89d4a1"
+    },
+    "units/neutralunitfunc.txt": {
+      "origin": "map",
+      "bytes": 33076,
+      "sha256": "499adef670f0376b2c7a17f4bc5b525a9bc77a994aaae79ce3bf0d842059d7db"
+    },
+    "units/campaignunitfunc.txt": {
+      "origin": "map",
+      "bytes": 45608,
+      "sha256": "0bcbb68dd0976aa7345a804d7737b5b913c5546d40083e1b1f80a7b043e14212"
+    },
+    "units/unitdata.slk": {
+      "origin": "map",
+      "bytes": 389254,
+      "sha256": "2c3f893a49667edada558cc7184111cb6ec3f89f43a806da74efb9e504b917a6"
+    },
+    "doodads/terrain/clifftrans/clifftransabhl0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2304,
+      "sha256": "5f5ed37f8ae3aa5639f0abab56ea7e84d43cb05650e680b0c2b47d46a2e56398"
+    },
+    "doodads/terrain/clifftrans/clifftranslabh0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "e39533cef428ccea542d966c0e87c7460968c0ca322755ef9440868c4f156f0e"
+    },
+    "doodads/terrain/clifftrans/clifftranslhba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "a4dd0e08689c97251a676e3c1fea4e4c2978b02fc81e758a990587daaf701b48"
+    },
+    "doodads/terrain/clifftrans/clifftransaalh0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2238,
+      "sha256": "5192ad79a8256483d2f0140fce8f6088aad684d9d95690a430f9b11016a2625e"
+    },
+    "doodads/terrain/clifftrans/clifftransbhla0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "95ccb2efb62c30c44c93dbcf35feee9e6a17b9224c5691f7e468da1ed9c07f85"
+    },
+    "doodads/terrain/clifftrans/clifftranshlab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "b559f7d0a5faf9966a727fa412fa9b9c7dca53ab22320fc12cf72f627f2914a1"
+    },
+    "doodads/terrain/clifftrans/clifftranshbal0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "276dc2f223caba6bf06b0fd13950faa07875aac06c1ec3a574cf9e3bb6d92b46"
+    },
+    "doodads/terrain/clifftrans/clifftransbalh0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2304,
+      "sha256": "6e3ebcd0d5e5686c7f1cdf2aadb60aa0d80e846e736273fd98b641bbd91e5f5c"
+    },
+    "doodads/terrain/clifftrans/clifftranshlaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2205,
+      "sha256": "1b3cce735f5ea0705087ea3f359ca691d7277429c8e8b653550dea07c6cacd46"
+    },
+    "doodads/terrain/clifftrans/clifftransalhb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "7bd394f6dc989061fe9eed2f993399c69e454284ea11bfd1c0067bbe5445beaa"
+    },
+    "doodads/terrain/clifftrans/clifftranslhaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2205,
+      "sha256": "9cff63de6300a0a2acc29d19a5e1692f2f174ab22a31120f6ffb6ab21357a3fa"
+    },
+    "doodads/terrain/clifftrans/clifftransaahl0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2238,
+      "sha256": "15488d7de248f8099a1326ec1282be3630d42359aac8bde1d2e52e451367fd78"
+    },
+    "doodads/terrain/clifftrans/clifftranslaah0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2205,
+      "sha256": "33ae733826eaf3aa2f5bb8e0e0482090cf149c435d19b9c8cb71f88acae64bbe"
+    },
+    "doodads/terrain/clifftrans/clifftransalha0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2205,
+      "sha256": "3b09d60c0a9022aa1e87e110dbeba7bce29f4d9fc9d41fc9410b0633e69cf750"
+    },
+    "doodads/terrain/clifftrans/clifftranshaal0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2205,
+      "sha256": "f006a0e6ecfff605ef521c360a70bd9cd2570fd3dcc89f271ef426d095b9dbfe"
+    },
+    "doodads/terrain/clifftrans/clifftransahla0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2205,
+      "sha256": "86c5130603160528187bbea30526a151baf74fd43e0885e93561a4286731c1d9"
+    },
+    "terrainart/felwood/felwood_dirtrough.blp": {
+      "origin": "classic-reference",
+      "bytes": 134753,
+      "sha256": "45b17a3c5da5a4a2f6b7b80957aabd1257aa9f6aa217a078caf30de349d02ae7"
+    },
+    "terrainart/felwood/felwood_vines.blp": {
+      "origin": "classic-reference",
+      "bytes": 131595,
+      "sha256": "14e8071d4b04b430a1f09a1f440cdd7683628bf30bfa0cb9faf89b4da857ac19"
+    },
+    "terrainart/felwood/felwood_dirt.blp": {
+      "origin": "classic-reference",
+      "bytes": 142902,
+      "sha256": "d7fe0125746a1862309faa6649c43625bb09fd99340db3d3ee57a490c38e9254"
+    },
+    "terrainart/felwood/felwood_leaves.blp": {
+      "origin": "classic-reference",
+      "bytes": 127553,
+      "sha256": "8347d13965776246f60d22f6a58f24bd53f743bf147e285a9a96d97784e4ddb1"
+    },
+    "terrainart/felwood/felwood_grass.blp": {
+      "origin": "classic-reference",
+      "bytes": 179717,
+      "sha256": "9078f92bf78425ffde1199d5a3d43b1c28ae526ad99a9d00f35ddbab0d00e64f"
+    },
+    "terrainart/northrend/north_dirtdark.blp": {
+      "origin": "classic-reference",
+      "bytes": 66134,
+      "sha256": "a3d7aad6fa9b00f91791295dd39429015c5ddd463cf9a8e8dd75673811e98fa9"
+    },
+    "terrainart/ruins/ruins_grassdark.blp": {
+      "origin": "classic-reference",
+      "bytes": 54728,
+      "sha256": "839b6d2ffc2909c103b648c6ad04b40fa6a570053b05cfa09d41c211fbf5f83a"
+    },
+    "terrainart/ruins/ruins_smallbricks.blp": {
+      "origin": "classic-reference",
+      "bytes": 125023,
+      "sha256": "fd2a55a0fed3b3958f5a191c005a08b5361c516f928d472ff5dea4fceaacd710"
+    },
+    "replaceabletextures/cliff/cliff0.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 67216,
+      "sha256": "aa0eef267f94241cb99aa07a959afde8606ad6aec7b6874dc07bd94ae95f9a8a"
+    },
+    "replaceabletextures/water/water03.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16935,
+      "sha256": "d1baa0facd9da7bba775eb3ebaefb559e2bddbc7e5c28d75e5a4d8351a300291"
+    },
+    "replaceabletextures/cliff/cliff1.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 71170,
+      "sha256": "92d71cade17d86bf653291d8bca3d6071a63702f8da4fbdd595efe45fc17a08a"
+    },
+    "replaceabletextures/water/water00.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15845,
+      "sha256": "0c7337d494927d6ef561197c94dbe2e9a468a31f861cb5fc5e081b7b9ae8b2d5"
+    },
+    "replaceabletextures/water/water01.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16050,
+      "sha256": "75568bb71e975206105a0d20c49d8721a66ca8352e654b2930630577f48a38b8"
+    },
+    "replaceabletextures/water/water02.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16468,
+      "sha256": "b71cd1da7a10f444c59cd6d5a272044d449c1af01b54e33a2f332d06b6207f32"
+    },
+    "replaceabletextures/water/water04.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16534,
+      "sha256": "04c82fe1f33b8533b145a700a7a519d070326ec9a71982d92258a28919c63d72"
+    },
+    "replaceabletextures/water/water08.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15352,
+      "sha256": "f396dfbdd9bbb82453acc1b98d33dd7f04b5b313cfc0a2d4cf15eaafa851d399"
+    },
+    "terrainart/blight/felwood_blight.blp": {
+      "origin": "classic-reference",
+      "bytes": 184441,
+      "sha256": "8392535cedc3b62ec10856c914682b2454fb5653e47c1555945bf9b6c595b1ba"
+    },
+    "terrainart/ashenvale/ashen_rock.blp": {
+      "origin": "classic-reference",
+      "bytes": 194961,
+      "sha256": "d0f06a93494ebdea9296e8425df39c4985e51f2b3039a7d91e4e500c6e48f93b"
+    },
+    "replaceabletextures/water/water07.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15527,
+      "sha256": "8d7ff987c3a82169a0539d999d191956a08c1b424d363269b7f0b1c913d8b5cf"
+    },
+    "replaceabletextures/water/water09.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15301,
+      "sha256": "7fc57d039067f3466baaa7937abc75d6d9e4488b72c8d63bf625497d9680bb88"
+    },
+    "replaceabletextures/water/water06.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15818,
+      "sha256": "6ef3e2d9b1b541070e591ea34568fe9026229043c15427b67066d34fb8e34810"
+    },
+    "replaceabletextures/water/water05.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16167,
+      "sha256": "f82e8dd40153315250f83f8cbde7bbeba966abe0a57cee02043e35510fede068"
+    },
+    "replaceabletextures/water/water10.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15032,
+      "sha256": "74340af8d8f932fc9f19e6b0f0b6a157669121181d525cadfd113acc97d6a78b"
+    },
+    "replaceabletextures/water/water12.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15051,
+      "sha256": "48452200c8c807a2b06ae6e72795ebe53b42bae7a5f6de45b1b753f4b75f5f39"
+    },
+    "replaceabletextures/water/water14.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15105,
+      "sha256": "3952d8abf442f710efd1ea642842220dc29f25c93f9f14963370ad2f1d9dacfc"
+    },
+    "replaceabletextures/water/water11.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 14978,
+      "sha256": "a3c42efaa51b9e5a589cbd6b0a341e3d6261c41f426855c418cb687e95b53d55"
+    },
+    "replaceabletextures/water/water15.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 14974,
+      "sha256": "cdcff67e42d15a9a34c413eddd0a90ee9ad26eafd9eac08f1f7ec2b7f61c1576"
+    },
+    "replaceabletextures/water/water13.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15026,
+      "sha256": "112db94d7eed96ac5a560e9624b5d24129627bfff0355296e0e79f67b20f7229"
+    },
+    "replaceabletextures/water/water16.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15134,
+      "sha256": "f5a0f884183ba73958584adbe088fd8b75d103c4c001895da99a1ac132552ca6"
+    },
+    "replaceabletextures/water/water17.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15309,
+      "sha256": "605d2b4aef976a8473a53bfe8961a66782efbed2c59fa50ef6df9d985d0b064f"
+    },
+    "replaceabletextures/water/water18.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15207,
+      "sha256": "9a0c26551005a586eb578515234a80e444cec62c1b441b7ef379011e2326a48e"
+    },
+    "replaceabletextures/water/water20.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15298,
+      "sha256": "f545bb71baa2d9b1f1db00ed5d6cadb40d018070104116284351750186012141"
+    },
+    "replaceabletextures/water/water19.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15202,
+      "sha256": "afe180c2b1ebaaeee0147127ea4900e2e84046801c3332822dd0bda8a68a996a"
+    },
+    "replaceabletextures/water/water21.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15458,
+      "sha256": "9cc86b1d4df3d86a945bec54f32ce6640601ba923e17fd0accf13b848353e4db"
+    },
+    "replaceabletextures/water/water22.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15606,
+      "sha256": "59ee66a86731037e5ac636b01306f720674d49f67a082af22d09db852864ea8e"
+    },
+    "replaceabletextures/water/water23.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15722,
+      "sha256": "38eded6b3c3b86ccc890558ba1d8a52aeb04ac29d4d14329962bc77113409ecf"
+    },
+    "replaceabletextures/water/water24.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16145,
+      "sha256": "b8b2e3b3dc9b75e996573eef0adc97ffbd58744df82bdfdaf5f32a04a779b91b"
+    },
+    "replaceabletextures/water/water25.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16443,
+      "sha256": "e24ab326f6ae2c5f1826125a5c024151c33da42d2373fd9d03c3a1cd5baba41a"
+    },
+    "replaceabletextures/water/water26.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16939,
+      "sha256": "814f78ce0fde3bfd678029c6d4806d8b3abea0f98211bd42086b6afd50d75986"
+    },
+    "replaceabletextures/water/water27.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16488,
+      "sha256": "c3c5baee9560fff4ff456c2e9832ba7b0f6a0e42d798fe86857531765ec876dc"
+    },
+    "replaceabletextures/water/water29.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15793,
+      "sha256": "881e7b38a8a0e22cd2a804d0d040f0d47a5ea55e02cdf9a026495576396cad27"
+    },
+    "replaceabletextures/water/water28.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 16082,
+      "sha256": "7252c5dc654f8be3d7aa9cef65f46bd25320502513785e0c7525511f067f5329"
+    },
+    "replaceabletextures/water/water30.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15602,
+      "sha256": "6c4397ae429879a864603feccfdaea16f4983311b4bfe01e487cb7ed53348068"
+    },
+    "replaceabletextures/water/water33.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15228,
+      "sha256": "ba6fe87b6af08b85f0399ae0c4e0569094363b8be82d5569bcf8975770abcae7"
+    },
+    "replaceabletextures/water/water31.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15483,
+      "sha256": "38d152f952f7ccc57740a5494b00f234253c7173bd3a97517f5ec51dc8684202"
+    },
+    "replaceabletextures/water/water32.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15179,
+      "sha256": "c7df12b78aa821490fc530aa5d113e984919992164212890a464c7c8e83ba069"
+    },
+    "replaceabletextures/water/water34.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15203,
+      "sha256": "76c547773de0ae3dd9873a6c5b400190223f560f83c037719d3bbc41ffb3b4d9"
+    },
+    "replaceabletextures/water/water35.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15140,
+      "sha256": "dd4e8fbddcb2739d78748b6562c53a2a7bd393904272eea4d0165c16b9fa100a"
+    },
+    "replaceabletextures/water/water36.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15085,
+      "sha256": "0ffafea2b31b037681131f30b782fd89583877bece0ba6df62e6f10d5686e269"
+    },
+    "replaceabletextures/water/water37.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15070,
+      "sha256": "8ea77f0eef276d15abcab477f53cccd1f45bb17eaafe6eb4bc9044b2952ecfcd"
+    },
+    "replaceabletextures/water/water40.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15374,
+      "sha256": "2a0b59b0cbca0163bb8861bd6a3290ef91571d061fa2127d871bb0b35c8ffa95"
+    },
+    "replaceabletextures/water/water41.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15318,
+      "sha256": "2624a5d52c2e5e4febee6fa06aa648698358ceb1974f7cdc178ace0bf6c55539"
+    },
+    "replaceabletextures/water/water38.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15120,
+      "sha256": "6c3fb7c6edf203ec82bf555213d9b3553b309a466baca0fbd2a9f2e04133ee2e"
+    },
+    "replaceabletextures/water/water39.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15197,
+      "sha256": "2a18b151c6933763fa9f0ada1c08d8d5f65380f02316334e8b07a03878bb98be"
+    },
+    "replaceabletextures/water/water43.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15543,
+      "sha256": "6c4d125c124129fbd25e2ecfc63a6d2935568ceb88856f7b90f835d1a3514d76"
+    },
+    "replaceabletextures/water/water42.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15317,
+      "sha256": "5bd0ad3b4fefedff1809741ec79ea95d910b4948fc840fe5904bbd273caf701c"
+    },
+    "replaceabletextures/water/water44.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 15568,
+      "sha256": "42ed7443dc5faed7424ce9dfaeca37b8d62ca53ea1767283527d2dc936382887"
+    },
+    "war3mapmap.blp": {
+      "origin": "map",
+      "bytes": 10660,
+      "sha256": "5bb8e4a028d4b0697d522babd39902161fb94ba201646a090fd92b729c46e56d"
+    },
+    "replaceabletextures/shadows/shadow.blp": {
+      "origin": "classic-reference",
+      "bytes": 9372,
+      "sha256": "69001538858fd4c2571de5e987e4e245bd12f8dc670b26a4ac4ce67dc70dc18b"
+    },
+    "doodads/terrain/northrendtree/northrendtree8.mdx": {
+      "origin": "classic-reference",
+      "bytes": 5982,
+      "sha256": "8094811bbd69683e283896aad5fb31ac8b0e37d93b1e7818e5e719ed5daca468"
+    },
+    "doodads/terrain/ashentree/ashentree2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6422,
+      "sha256": "39b97cd8cb4012eb186c20fee00ed493b84e2f9b622916f727879867d4b6d3be"
+    },
+    "doodads/terrain/northrendtree/northrendtree2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6624,
+      "sha256": "c6e76a5f4756b4f519cf370436c97c633c23600df2481308c5e6a2ef364916a3"
+    },
+    "doodads/terrain/ashentree/ashentree4.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7283,
+      "sha256": "9066c33fd21f7317912635b030eb9f753583f309a480a8c4e384c9b43b299fa4"
+    },
+    "doodads/terrain/ashentree/ashentree3.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6422,
+      "sha256": "a3d399a3db3a984b47252214ee33586bbe07c466204807c7074144823968f579"
+    },
+    "doodads/lordaeronsummer/props/skullpile/skullpile3.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4710,
+      "sha256": "3074c7f727b2db1ddf9f52f7cfcf837f5ba6b9f6ae5271ef00abccf30b885e37"
+    },
+    "doodads/terrain/northrendtree/northrendtree3.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6624,
+      "sha256": "4aa013d8b253017110686391997191058aad33bd3963b56f5f0c7e0eb7e81e0d"
+    },
+    "doodads/ashenvale/plants/ashenshrooms/ashenshrooms0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4041,
+      "sha256": "cfc76bc42fb86a681a45d16766a12f375f230c51a09495c399c8d0533a9a4408"
+    },
+    "doodads/terrain/ashentree/ashentree1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7094,
+      "sha256": "3fadc5c69a42e3a678972e54c5036398739e4544ace7feb45263bc1989c829de"
+    },
+    "doodads/ruins/plants/ruins_flower/ruins_flower0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3027,
+      "sha256": "167b8d080105e4b8f7ebe049581673a9f36d8f0ae88c58419786b09b8ef2ee81"
+    },
+    "doodads/ruins/plants/ruins_shrub/ruins_shrub0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1986,
+      "sha256": "2504be8c2bf1e356ca998642854f4ff5fe0d0d91b403598f31f6e270656099a7"
+    },
+    "doodads/lordaeronsummer/props/impaledbody/impaledbody1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 9696,
+      "sha256": "0e7ea5d5eb1a0c7ef5e75f8d89b4e1a072ad4c858d2ed09f298334da42230345"
+    },
+    "doodads/ruins/plants/ruins_shrub/ruins_shrub2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2418,
+      "sha256": "8bd2b8e96867330a660d5d4e078f07cd8890de75494ac4f6ce72a3283df58699"
+    },
+    "doodads/terrain/ashentree/ashentree0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7100,
+      "sha256": "d6056caedebcf869cd70d18c2e6172b3cb983d023dfa64741dbddd7243ec69d6"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock3.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3600,
+      "sha256": "e37dd2c8e1c135d9c9b1f33b18595380dbc5b4a5ac36ed3db4292ae139dad361"
+    },
+    "environment/blightdoodad/blightdoodad.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2059,
+      "sha256": "5949f62a95855482d79e706f215e030b845a3c703c95ef7b78d40afbbf034d9c"
+    },
+    "doodads/terrain/northrendtree/northrendtree7.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6051,
+      "sha256": "a57bad08182b6ea8936452e163248789c8e451cecc5975a2f62aff2b1d0ee746"
+    },
+    "doodads/ruins/plants/ruins_flower/ruins_flower2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3891,
+      "sha256": "667b3504827e01a2f50558377beca9c75926cf03caf0a33eb01cdf52fd9aa9b2"
+    },
+    "doodads/felwood/props/felwoodobilisk/felwoodobilisk.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3444,
+      "sha256": "17a47c5ed1282071c089c4085e767c2ffc1f730a9511e6ad05d50b542a6261f0"
+    },
+    "doodads/ashenvale/plants/ashencanopytree/ashencanopytree0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6450,
+      "sha256": "bb7d8bfdaf90346ffeeeba349efde25becb69a00e18f62b076d76ab49336caba"
+    },
+    "doodads/terrain/northrendtree/northrendtree1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6555,
+      "sha256": "0440378175e611bf38abcf4039b3ecec8e4fde3b495ded972cd16d61ac727bd3"
+    },
+    "doodads/lordaeronsummer/props/torchhuman/torchhuman.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4343,
+      "sha256": "98d1a8c63a13ac5c6fcd863eb0df906ed096a6750941debc5f05cfe59be81b6c"
+    },
+    "doodads/ashenvale/plants/ashencanopytree/ashencanopytree2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6318,
+      "sha256": "5b714ef3d6e1eac89c73ca8576675f7ea0de8eab4bd2c2cbabf564ea057a68b9"
+    },
+    "doodads/ashenvale/plants/ashencanopytree/ashencanopytree1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6318,
+      "sha256": "061bdc6b6646f5d74ec0987d28d2dc0e39a30eb17a7c38bea8be47d071d28b15"
+    },
+    "doodads/terrain/northrendtree/northrendtree4.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6624,
+      "sha256": "f241d12f9fba2bd05e4c496322e2515e3a8ab77bbbca3828f3a53928a3dbb93d"
+    },
+    "doodads/terrain/northrendtree/northrendtree5.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6555,
+      "sha256": "cdb31e0f08ddc9942c148d0da854b8581a0fb6dab11f236b77ffa67403c40929"
+    },
+    "doodads/terrain/northrendtree/northrendtree9.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6051,
+      "sha256": "0867e3b25f645c92e03526b545efabc0fcffb6a693fb34502e9c3de90449c4db"
+    },
+    "doodads/northrend/rocks/northrendfissure/northrendfissure1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7718,
+      "sha256": "66a861f27a3e3cd37bc76c3bd189c9317ef7da8eba620c6b8e1d9d58d0ccf67c"
+    },
+    "doodads/terrain/northrendtree/northrendtree0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6624,
+      "sha256": "ab170c78db37b3700ec43538eb0cd7a127ebe4b895af9e80ee83403e67819111"
+    },
+    "doodads/village/props/village_fencelong/village_fencelong.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2973,
+      "sha256": "16977195df11e5611ec49c5c380fda147f44d4fee07002b2f61a407036c0d731"
+    },
+    "doodads/ruins/plants/ruins_flower/ruins_flower1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3891,
+      "sha256": "35aee40ee04862d54aee0ac0b56034a4ec796d52c3578a073f1987d0fdb8a2eb"
+    },
+    "war3mapimported/waterfall_blue.mdx": {
+      "origin": "map",
+      "bytes": 8536,
+      "sha256": "35a8d8f30e64009db18803db7d0cfb42e4e8a63c245739220e438e83753ac782"
+    },
+    "buildings/other/bookofsummoning/bookofsummoning.mdx": {
+      "origin": "classic-reference",
+      "bytes": 13149,
+      "sha256": "2a858f35366cb5b6d38c288d5d1a741c528a06bf2b27751a474a067a7cb363b4"
+    },
+    "doodads/lordaeronsummer/props/torchhumanomni/torchhumanomni.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4343,
+      "sha256": "25b05840e6b77ee3c34df00e2a49c7b0214b5e15063c0a4b21ea111be57ea23c"
+    },
+    "doodads/terrain/northrendtree/northrendtree6.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6555,
+      "sha256": "177fe58590c0d42575e06285691e65678ae180dad095e5770b5f369938f6b9b8"
+    },
+    "doodads/ruins/plants/ruins_flower/ruins_flower3.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3447,
+      "sha256": "1669f71c2c34fa35fa6d85e76341e5d88b27665e25fe594a37d20672e6ce1358"
+    },
+    "doodads/icecrown/props/icetorch/icetorch.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7965,
+      "sha256": "e264f370024f0a05ae850d7116e955d9089d72d80fb18869f83b3993841c6c60"
+    },
+    "doodads/ruins/plants/ruins_shrub/ruins_shrub1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2016,
+      "sha256": "26fce1fa35cc632df838464a7ff5f41b5a696257521a4fb7b467bf2c70ba84ec"
+    },
+    "doodads/lordaeronsummer/props/impaledbody/impaledbody0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 9347,
+      "sha256": "00b70a6f7dfa89a944533b12fb681629aaba6366f68f9f5455743bbc67849b8b"
+    },
+    "doodads/felwood/plants/felwoodcattail/felwoodcattail.mdx": {
+      "origin": "classic-reference",
+      "bytes": 5712,
+      "sha256": "a564eb67a099eb66cd6ca64a6ea1c313a1e3554aba54abf48a87a7fd0a5ebf28"
+    },
+    "doodads/lordaeronsummer/props/brazieromni/brazieromni.mdx": {
+      "origin": "classic-reference",
+      "bytes": 5367,
+      "sha256": "ae326158dac1fb880e9c59d7f29387b5bd1a737eb76fae9f91f668e9e531160b"
+    },
+    "doodads/lordaeronsummer/plants/wheat/wheat.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6537,
+      "sha256": "5d7351823e555f32757a08af9b773c2b52416a36570b4ec64c73f13256b67c8b"
+    },
+    "doodads/ashenvale/props/totem/totem0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6442,
+      "sha256": "eeb83e06f78f805020e3344471030162cfbce016c8e00f7897f331832eb14196"
+    },
+    "doodads/cinematic/glowingrunes/glowingrunes7.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4461,
+      "sha256": "07c8836195b830bf4e3dfb4eb282e7c81821ebfb590feed5f2eb0d34421d2df3"
+    },
+    "doodads/northrend/props/northrendfencestraight/northrendfencestraight.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6288,
+      "sha256": "8b8ece9d3ca92f6f3356c141af2f39a2a6dd8c2eb1f08af0bb6d21455e3dfee8"
+    },
+    "doodads/northrend/props/firepitpig/firepitpig.mdx": {
+      "origin": "classic-reference",
+      "bytes": 18041,
+      "sha256": "276099d23d10943b1ad5248430c284622c513703e2bdf8dcb6c50dfdf68a2b68"
+    },
+    "doodads/ruins/plants/ruins_flower/ruins_flower4.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3447,
+      "sha256": "908ad5142ed19d2ad0e14188bf3495b566e094c96d5359bfbe4597cc560b5cbe"
+    },
+    "doodads/lordaeronsummer/props/skullpile/skullpile2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3912,
+      "sha256": "011e47b08dd707632e3a291a335af79d910ab160d1c4a34c67e9916c76503f0b"
+    },
+    "doodads/ashenvale/props/brazier/brazier.mdx": {
+      "origin": "classic-reference",
+      "bytes": 12937,
+      "sha256": "b22c87e52022030a11365543182b72831dc81ed020722b3929672666894c585c"
+    },
+    "doodads/cinematic/glowingrunes/glowingrunes6.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4461,
+      "sha256": "93758211acaa9aa7cb45e527b7a96c7e6a5236d3d0f70c20d045ce1b846ff6c2"
+    },
+    "doodads/northrend/props/firepit/firepit.mdx": {
+      "origin": "classic-reference",
+      "bytes": 12074,
+      "sha256": "9ac22b412d12f738afce1b4219d72562b35dba158201a97a66f7f3482b31fa81"
+    },
+    "doodads/ashenvale/props/totem/totem1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 8794,
+      "sha256": "6287fa66c6bec8fbade071f5ee86ba3aac38a11e06276d3aca608cc1717b442e"
+    },
+    "doodads/cinematic/glowingrunes/glowingrunes0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4461,
+      "sha256": "53659f739805c70f4776c5e3167c4b4699f90241eea6a0959486377dff2d1ab5"
+    },
+    "doodads/ashenvale/props/totem/totem2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3972,
+      "sha256": "2c6919b435d28b0efa7324f7191aa6f4912fe49895bbe63956920a8113a90462"
+    },
+    "doodads/lordaeronsummer/props/headonspear/headonspear0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 5002,
+      "sha256": "4dcced55f0043c9e3d9859f53f5a1120bfba574a93b2fa892f75c8d71e185353"
+    },
+    "doodads/ruins/water/fishtropical/fishtropical.mdx": {
+      "origin": "classic-reference",
+      "bytes": 8328,
+      "sha256": "eafffa8c91bf7e14a7724f71b98ea9e1b08239db53b0f359483d3e1b8a39ff38"
+    },
+    "doodads/cinematic/glowingrunes/glowingrunes2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4461,
+      "sha256": "05e7b6ac5a5c16401a20a9be49b22d5d57a9f8a49bd9ac28509c9832f57d553c"
+    },
+    "doodads/felwood/plants/felwoodshrooms/felwoodshrooms2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4524,
+      "sha256": "a0d68dd7f59b6ceb79e56f9849a13730b3999c34800f4625e587537cca269759"
+    },
+    "doodads/village/props/village_fenceshort/village_fenceshort.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2727,
+      "sha256": "07084c44de1c6f79a68feb8c6641debd12a07139bb0f7508be8fd39faf99e2c9"
+    },
+    "doodads/felwood/props/felwoodhollowstump/felwoodhollowstump.mdx": {
+      "origin": "classic-reference",
+      "bytes": 8550,
+      "sha256": "484f84ed35ba2a8c10c91cac6d62133d33e93f364306e3a39fe94455e67f1fcb"
+    },
+    "doodads/ashenvale/water/fish/fish.mdx": {
+      "origin": "classic-reference",
+      "bytes": 8328,
+      "sha256": "ed26bf5136cb14195737c3a7e15124ef423c253a0c909ce59cd123debd589d9a"
+    },
+    "doodads/lordaeronsummer/props/lanternpost/lanternpost0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 10730,
+      "sha256": "c6fd6dbdb38653ad1673608effc3642a1ae17c5c279cf22f43ba28f828fc033d"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock5.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3600,
+      "sha256": "ea01abc0842e4bfcdf70d11c4b091aef912cbd532e1eaadbd68d74a6985787d4"
+    },
+    "doodads/ashenvale/props/obelisk/obelisk2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4376,
+      "sha256": "9d94447df0cf122abf20f19295ba679c0b301f404a2deda1f663527c83372600"
+    },
+    "doodads/outland/props/altar/altar.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6312,
+      "sha256": "753ba88606ede879e454d016bee3463fe2be98546eb121b46ed628df89e57ba6"
+    },
+    "doodads/felwood/structures/felwoodruinsblocks/felwoodruinsblocks.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7737,
+      "sha256": "9aa2ead57fd9dbb701bbd43be4a4b41e218be54f5e5a3793509b83c8c13efe8e"
+    },
+    "doodads/outland/props/obstacle/obstacle2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 7362,
+      "sha256": "e584c67bf71b0d68be9d82e09cbc77c6ccee1cc615f10709183ce2d9d619a87c"
+    },
+    "doodads/ashenvale/props/ashenobilisk/ashenobilisk.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3444,
+      "sha256": "fac59d1f823ebbf1893e3244e97ea2e7f9464b1b9348d5f4f0edbb61b1e46519"
+    },
+    "doodads/ashenvale/props/keeperstatue/keeperstatue.mdx": {
+      "origin": "classic-reference",
+      "bytes": 19285,
+      "sha256": "8a8fb26460cc061ccbb2477495fa089cd63515b9b2d52253007ba54c0287ea87"
+    },
+    "doodads/ashenvale/props/sentinelstatue/sentinelstatue.mdx": {
+      "origin": "classic-reference",
+      "bytes": 23186,
+      "sha256": "2d99d3cbdfda1f6190d5545a382e5346c3fda29ddb8f277f6e58076ec29d5a81"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3600,
+      "sha256": "511fa91b4d0a49eb737c3d43d0841f7676bd78360336158a656f529464b0038a"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3600,
+      "sha256": "0e4c2d0e2a57f216aae8731311737cf44eda24c5bef937055907da539dca1602"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock8.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2448,
+      "sha256": "9fe7d64715284975d39859138da5509d15564762f19f37dde9281f74a59fe82b"
+    },
+    "doodads/northrend/props/northrendobilisk/northrendobilisk.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3444,
+      "sha256": "1fd4638e041a3cd3d5d4eba1db02fdf693a1d8f6c912a5cab1eb5553b79edc05"
+    },
+    "doodads/cinematic/glowingrunes/glowingrunes4.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4461,
+      "sha256": "44c0ce0028dc76142d21a5ce579b374608d7e55697cd521e204e22c6e5ca5d91"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock7.mdx": {
+      "origin": "classic-reference",
+      "bytes": 3600,
+      "sha256": "71591934a77b2a65197434c790195ef2e3f01100bf95e37180064ca7e89c2c98"
+    },
+    "doodads/ashenvale/rocks/ashenrock/ashenrock4.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4752,
+      "sha256": "c72b51b617c2b844cc364c5840b848f0f074ae9111bb94c664611fd87746e82d"
+    },
+    "doodads/ashenvale/plants/ashenshrooms/ashenshrooms2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 4524,
+      "sha256": "7018bbe44878df6440af67593222174a6dc5de1f135e12544a5aff11f1a13337"
+    },
+    "doodads/lordaeronsummer/props/cauldronwithheads/cauldronwithheads.mdx": {
+      "origin": "classic-reference",
+      "bytes": 6205,
+      "sha256": "c0f53f854f26457106c6939746d18bd018ecdbe58ee92fed7f6b6dd0c1be32c4"
+    },
+    "doodads/northrend/props/northrendtombstone/northrendtombstone1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 5007,
+      "sha256": "8319aba245d2e72d243cd6e654eede0356f9d1688455aa2c0a3a244d1243c8ed"
+    },
+    "doodads/felwood/plants/felwoodlillypad/felwoodlillypad.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1296,
+      "sha256": "60c4b5b93543581c6fb7d5091d2522df3312939bc0c61b5ee14c178a64359a3e"
+    },
+    "doodads/lordaeronsummer/props/skullonstick/skullonstick2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2628,
+      "sha256": "cb4e7509602b8e8547fe9a060c8d2ae5e2a562160648e5ca2c72ad4cc01d9ef6"
+    },
+    "doodads/terrain/losblocker/losblocker.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1296,
+      "sha256": "60a7fc4d9ff392440c1a17376b13112f04590b0e505ade55b0210fc35cb15383"
+    },
+    "doodads/northrend/structures/northrendcrypt/northrendcrypt.mdx": {
+      "origin": "classic-reference",
+      "bytes": 13032,
+      "sha256": "546122001f959457aa6b2569de14ffc2a76704fd3eff987b1e82839b6ad83077"
+    },
+    "doodads/ruins/water/fishschool/fishschool.mdx": {
+      "origin": "classic-reference",
+      "bytes": 176514,
+      "sha256": "cabe520d269d240528a82b4e24e87139264c562e960d457681f1fa69c0d0f454"
+    },
+    "buildings/other/ammodump/ammodump.mdx": {
+      "origin": "classic-reference",
+      "bytes": 29239,
+      "sha256": "85822393832d0d811710c0bd012f635c607a3976cb6bb9c4344a12073c07e8a7"
+    },
+    "units/undead/acolyte/acolyte.mdx": {
+      "origin": "classic-reference",
+      "bytes": 76134,
+      "sha256": "5bb35c0bbb0448c41e1db9941e99de48dbf4ac5910b882f1313f9166a2333c75"
+    },
+    "buildings/other/fountainoflife/fountainofhealth.mdx": {
+      "origin": "classic-reference",
+      "bytes": 42056,
+      "sha256": "7b5d340320b5f6742cbb3daee8b28061bf9e512c288043ebe3d337e7f678977e"
+    },
+    "buildings/other/merchant/merchant.mdx": {
+      "origin": "classic-reference",
+      "bytes": 136323,
+      "sha256": "0ffbe677aad6bd704516fc9c8e09fe362d96ff7b8f8b0b138763b2f60bfb05e7"
+    },
+    "units/critters/elfvillagerwoman/elfvillagerwoman.mdx": {
+      "origin": "classic-reference",
+      "bytes": 74531,
+      "sha256": "65520a14746c10c972047686e274768b344f11ee8206a4bb4f86e1a9f5e4dfd9"
+    },
+    "buildings/human/arcanesanctum/arcanesanctum.mdx": {
+      "origin": "classic-reference",
+      "bytes": 117224,
+      "sha256": "99c13e317b6f40c853239655f6473d6d089138818f2d1deeed30a8821158af56"
+    },
+    "units/human/heromountainking/heromountainking.mdx": {
+      "origin": "classic-reference",
+      "bytes": 285253,
+      "sha256": "e454b8cfc7e80cf795dd0b55b34a7676c63e77f4fbd4f516158a949a275cfb63"
+    },
+    "units/creeps/humanmage/humanmage.mdx": {
+      "origin": "classic-reference",
+      "bytes": 96308,
+      "sha256": "f06b2d2570b07dbdfc018b5c8dfb6f12a37e80e268a1e28addede0dd62392ac9"
+    },
+    "buildings/nightelf/ancientofwonder/ancientofwonder.mdx": {
+      "origin": "classic-reference",
+      "bytes": 362331,
+      "sha256": "2927e8e7c12e76938b9001a9594747fdf4b59295620982d5f64943af81070358"
+    },
+    "war3mapimported/final_export.mdx": {
+      "origin": "map",
+      "bytes": 36726,
+      "sha256": "02c28cff757337b6f7954d45658e41c527ba659f9f19ad989d9b9af803de8014"
+    },
+    "units/nightelf/wisp/wisp.mdx": {
+      "origin": "classic-reference",
+      "bytes": 32974,
+      "sha256": "02ca5bf4e00da28bbda5a5e5c7919b46747fc13e7ca033e66c86b0d68acca945"
+    },
+    "units/creeps/watcher/watcher.mdx": {
+      "origin": "classic-reference",
+      "bytes": 105714,
+      "sha256": "9dca5d9f56e8e9c30348fa68d3a3fcf72b5bffabddb49884abc70401d21d0f5b"
+    },
+    "units/critters/highelfpeasant/highelfpeasant.mdx": {
+      "origin": "classic-reference",
+      "bytes": 139840,
+      "sha256": "0163678ea9edbf0284604014cf220bf5ccabc171ca74d9b3161c74bdd9ade19c"
+    },
+    "units/other/bloodelflieutenant/bloodelflieutenant.mdx": {
+      "origin": "classic-reference",
+      "bytes": 105635,
+      "sha256": "e9f3078aab16716d4babbe1c8cacfeb11086ab4fdb27cbd90755079f7fc28306"
+    },
+    "units/critters/villagerman1/villagerman1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 175877,
+      "sha256": "e6f5bc22c85e665e25ca779b6bf744dc30b4773814cd6e74af3b1f819048e5d2"
+    },
+    "buildings/nightelf/ancientoflore/ancientoflore.mdx": {
+      "origin": "classic-reference",
+      "bytes": 495479,
+      "sha256": "25ac2ea5c6c1b22a343f90e7283d777839cf6206c51966422981d68d2b7a9fd8"
+    },
+    "buildings/nightelf/ancientofwar/ancientofwar.mdx": {
+      "origin": "classic-reference",
+      "bytes": 345783,
+      "sha256": "41af35f5b19b9c56bc1c6c807400a485de0f8eee0fa06f0cec48b7bf5e117b05"
+    },
+    "buildings/nightelf/moonwell/moonwell.mdx": {
+      "origin": "classic-reference",
+      "bytes": 23324,
+      "sha256": "32c9cc736ae4ebf3d23cc37f46cb6f6ff6f0bb1dbed03d72a8a063dc95921686"
+    },
+    "buildings/nightelf/ancientprotector/ancientprotector.mdx": {
+      "origin": "classic-reference",
+      "bytes": 286563,
+      "sha256": "203214da044c60341dafd1d1f7f298aa4d41e7eec274e67d9caa93bd751549f7"
+    },
+    "buildings/nightelf/ancientofwind/ancientofwind.mdx": {
+      "origin": "classic-reference",
+      "bytes": 317748,
+      "sha256": "fddcfd1b90a258e1891311cff76e2b6b63acd700dd0a8892aa796b421bb58f17"
+    },
+    "buildings/nightelf/huntershall/huntershall.mdx": {
+      "origin": "classic-reference",
+      "bytes": 39584,
+      "sha256": "87bafe4e1cd67bbd5390e49130ddbd68dc32ca1921f1fbdb283978f90dbf4626"
+    },
+    "buildings/other/fountainoflifedefiled/fountainoflifedefiled.mdx": {
+      "origin": "classic-reference",
+      "bytes": 24548,
+      "sha256": "af1770f9fb74112111f7c93b4fe5954cb1c77ff102545227526cc83a1558e8e1"
+    },
+    "buildings/undead/ziggurat/ziggurat.mdx": {
+      "origin": "classic-reference",
+      "bytes": 70923,
+      "sha256": "f859f038560512222762486dd363771fe6a0c6e78d3146bc5a834a0bf8c0e01a"
+    },
+    "buildings/other/magetower/magetower.mdx": {
+      "origin": "classic-reference",
+      "bytes": 124485,
+      "sha256": "30d44d180e90184e24db488038a38ef9d774d3041998d15b329b64417df04405"
+    },
+    "doodads/cinematic/lichking/lichking.mdx": {
+      "origin": "classic-reference",
+      "bytes": 51380,
+      "sha256": "5ed336f36a9c74d27578da44d56de371b0c58e16d0a9cdf345fc85549a3b1bf8"
+    },
+    "buildings/undead/tombofrelics/tombofrelics.mdx": {
+      "origin": "classic-reference",
+      "bytes": 55000,
+      "sha256": "2d318d81f5aba6ddb49bb3263497dfdfd4796c8e428eb6815aa6bad8ffa22134"
+    },
+    "buildings/undead/crypt/crypt.mdx": {
+      "origin": "classic-reference",
+      "bytes": 69521,
+      "sha256": "3f6a35569017764a1ff0f9c13d883e000420f3c071272607d5a0bc43f5774216"
+    },
+    "buildings/undead/templeofthedamned/templeofthedamned.mdx": {
+      "origin": "classic-reference",
+      "bytes": 60621,
+      "sha256": "491c4bde0eb43a8a2f2921dfcb60172d085ca1c929e5a63c67bd88fa73cdf7a9"
+    },
+    "buildings/undead/sacrificialpit/sacrificialpit.mdx": {
+      "origin": "classic-reference",
+      "bytes": 42206,
+      "sha256": "ec86b066b19977c539b01d8d2d4d1aa867272cc87f0049d7da5ebf21985ab909"
+    },
+    "buildings/undead/boneyard/boneyard.mdx": {
+      "origin": "classic-reference",
+      "bytes": 69544,
+      "sha256": "2fdfd23143b0dc304d37d57ede71fd3e22efa4ea6164834fcce5dd94a4fb63a3"
+    },
+    "buildings/other/circleofpower/circleofpower.mdx": {
+      "origin": "classic-reference",
+      "bytes": 11028,
+      "sha256": "c596637ddf07db9707fa68deafe396afdacb6301641758bf53943d98831bb111"
+    },
+    "buildings/other/tavern/tavern.mdx": {
+      "origin": "classic-reference",
+      "bytes": 29487,
+      "sha256": "4bb763854ed852c0835c2f791a57bbdad50bd8c689403194969b89b8604d430e"
+    },
+    "doodads/terrain/cliffs/cliffsbbab1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "7cc0e55e3c7b56096988cb4e8cb6161c087e95c6d8297baf7b838fef7c06afd6"
+    },
+    "units/creeps/rockgolem/rockgolem.mdx": {
+      "origin": "classic-reference",
+      "bytes": 99753,
+      "sha256": "3d27b1b70fb067245a2202bc25584c1413b48c694d9cc8712e67eb2dd30aee1c"
+    },
+    "doodads/terrain/cliffs/cliffscbaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "55fd06e1faf2991356f0359996e909dc691c1f975390defa08e8c4659881e3b2"
+    },
+    "doodads/terrain/cliffs/cliffsaabb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "314f946483deef9c8fb19da21de0c871e4bf7a28f61b0746c5fecf48724e4373"
+    },
+    "doodads/terrain/cliffs/cliffsaaac1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "36b3b6c908e4ca118c03345efe3bc093cbbb5c3fa11637c0fe5cdfbeb1de265c"
+    },
+    "doodads/terrain/cliffs/cliffscabc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "2c8af4e258b45d9e423e41387c030d1948c107067a09224b82a20481b73e5082"
+    },
+    "doodads/terrain/cliffs/cliffsaabb2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "dc5965b7ad36315abc4c1a14996457d6562a6824ee20e009d249a6e4607c6176"
+    },
+    "doodads/terrain/cliffs/cliffsbabb1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1890,
+      "sha256": "0e1e3d6312bed7d0c04f5d0583716eb96c40733dcdd266c5d1935bda41ec8e4b"
+    },
+    "doodads/terrain/cliffs/cliffscaac1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "13e16f79f0bc27b283b6693aa5c8dd718d11d25129764e185852035f2453cbe4"
+    },
+    "doodads/terrain/cliffs/cliffscabb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "bba74c5628c242b4fd5538f60032f30c6ab3ce4de95dd65a4843e648ab0164e6"
+    },
+    "doodads/terrain/cliffs/cliffsccac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "89150307295ab96fce97d7a9af26cb0568d8224a48cf799e33afd4de1d83f411"
+    },
+    "doodads/terrain/cliffs/cliffsabba1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "e103ba8ccdaa409476fa851fee36af48831660b7a212bd2fa1ecec876179aefe"
+    },
+    "doodads/terrain/cliffs/cliffsbbaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "a507fe12cfd03381f1f898b3fd14d97746371b507a7a8216f058ea90371811b6"
+    },
+    "doodads/terrain/cliffs/cliffsaaba1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "204e45651a45226d065d2c08093823f49ac963e0f38e2a97eed816678f23e2c9"
+    },
+    "doodads/terrain/cliffs/cliffsabbb1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "d76fa862cebcafe6b156f8b118bbe74599c559c91cdc6b75720759a2be904ac9"
+    },
+    "doodads/terrain/cliffs/cliffsaaab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "aca9b7933091001ae9732d9f70c27aad65bf74a3fd10a7a2952914ee38be99ed"
+    },
+    "doodads/terrain/cliffs/cliffsabba2.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "5ba5e52c64ea6c7db698e7edc382cb5fbea049f3b818ee539fdc5b387256b1eb"
+    },
+    "doodads/terrain/cliffs/cliffsbaaa1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "d1fc3862d74b3ee2ba156f090359c9223c07e3b7bedf90943d8d8922a4c52ae1"
+    },
+    "doodads/terrain/cliffs/cliffsbbac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "0e1e217f3484e32be6aad214d4d237e85c8ab2a66841b2b0c1df6e9cb508c1b7"
+    },
+    "doodads/terrain/cliffs/cliffscaaa1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "8040c2634a7ff741f26bb58a7ca78754c81c53a8d0ab10d99ef45956635ba719"
+    },
+    "doodads/terrain/cliffs/cliffscacc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "e668a0dd5238ffccf1584d4105e8022199a600b3a396feb0e04cf634bb72f305"
+    },
+    "doodads/terrain/cliffs/cliffsccaa1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "e286e84a0dfb1923a106ff431305b6b72ef659a3cbc7d0386bde39e6aaacd73d"
+    },
+    "doodads/terrain/cliffs/cliffsbbab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1950,
+      "sha256": "4f10e4af4ef3c4cad1edece3fc122d3d31df9b7fc20a5dd9951abebf77fbd905"
+    },
+    "doodads/terrain/cliffs/cliffscaaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "adfca96c161306524a215ce00aae353e77d7e859c1318f47abb846b513648b7c"
+    },
+    "doodads/terrain/cliffs/cliffsaaab1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "1063239b8c05279514609c0938ee54a3d8e5db25ecd94192c6d80317a1ae132b"
+    },
+    "doodads/terrain/cliffs/cliffsabac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2262,
+      "sha256": "0a919a312c96507164ed70993b295fb6cb57d9899ea9af65186d291bce1a2c12"
+    },
+    "doodads/terrain/cliffs/cliffscaab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "0c000de852521a403cef7217a88347f0ec6daffe9c206fdb5a36d218b1c21c41"
+    },
+    "doodads/terrain/cliffs/cliffsbacb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "939005014159a874231fa3374e3eb32a2a694e7c0445b6fe3d8cee0273f9a01d"
+    },
+    "doodads/terrain/cliffs/cliffsbaca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2394,
+      "sha256": "15c0a8a41784d3a9c1ac2a0211602acfd70e8373ff42a5102877784cb4e2786d"
+    },
+    "doodads/terrain/cliffs/cliffsaccb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "2a80aa7d81b019074319f3a99a36922cd79e425f55219e9940152ae1189a2d04"
+    },
+    "doodads/terrain/cliffs/cliffsbcaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "62d839323b23b7bb5561b5ab165f2905ecdd73f9da598be983e032eb1214ae07"
+    },
+    "doodads/terrain/cliffs/cliffsbabb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "5079545bdc1323d3aba938af552b2d5db54558f5e78193769b78a9f0d0a3b37e"
+    },
+    "doodads/terrain/cliffs/cliffsaaac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "d028b954323464f35f929c39a6d8df3bebe14e023bb708c2652c0092931d09a3"
+    },
+    "doodads/terrain/cliffs/cliffsbaab1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "d196ba48037e2753ea5646880b69153eed805fe287b566671111ee98287877d3"
+    },
+    "doodads/terrain/cliffs/cliffsbaac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "6886ab48b13705818f6a82791f73e01215d8a020372195199a48f802e36cffbc"
+    },
+    "doodads/terrain/cliffs/cliffsbabc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2304,
+      "sha256": "084864f64e23145ffc09b1df455a976e51fc766b589d47b8758355a544c23525"
+    },
+    "doodads/terrain/cliffs/cliffscbac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "8493db6b4b1b92bde81cad2e8a96bdbe277d89defc4a6518dd9034c8c01674d8"
+    },
+    "doodads/terrain/cliffs/cliffsbaba1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "bc36748f29bea7cc3e6386739e345d5e75d8ab61f50b62925ccf2ea511b31a57"
+    },
+    "doodads/terrain/cliffs/cliffsabab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "00f0107eb7de50623d753a56d27e5808d9a216e40345d52340ff44c325fe8850"
+    },
+    "doodads/terrain/cliffs/cliffsbaab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "19c07653faa28c626f1ca60e1de52e68c997fceb8f2c258170a8accf9a60e7b8"
+    },
+    "doodads/terrain/cliffs/cliffsbaba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "2f56b81526a0fe4a47d6f217aed52d7bec81027c7e553ad561d10cf61e9f9bc8"
+    },
+    "doodads/terrain/cliffs/cliffsabab1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2271,
+      "sha256": "8ba34757318be442df1aa934e119083794ef630c552e95606f38ac59146d6123"
+    },
+    "doodads/terrain/cliffs/cliffsbbba1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "67602360a0727fa31923e9a749c515b4e1aab1c75e3cff5d039c9943a1fec903"
+    },
+    "doodads/terrain/cliffs/cliffsbaaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "b04e5f6c1197d2b3445743408b12b3f19710c555a68ff44b71f15a87285e51b1"
+    },
+    "doodads/terrain/cliffs/cliffsabba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "2d97cb378de549edc83f2aa29eacecf956238625de7db51eeaae812a4f282b36"
+    },
+    "doodads/terrain/cliffs/cliffsbbaa1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "09e195f1d91497bb89bf6229aa434378c7de20016d03333d333d95c2fed5f6e1"
+    },
+    "doodads/terrain/cliffs/cliffsaabb1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1740,
+      "sha256": "c8cb3366938103e04380cb2e267739d19b7cf4e6fd7815d238cfe71f6fcb607a"
+    },
+    "doodads/terrain/cliffs/cliffsabbb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "6ec03e34b8a871ec5cb4ecf04bdd4372752aac4a534ab8d7e1aff108b13f5e7b"
+    },
+    "doodads/terrain/cliffs/cliffsaaba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "21a01f445d3feb39c7fe695647ff392a947224026faec0d0952e6b1577e64a1a"
+    },
+    "doodads/terrain/cliffs/cliffsbbba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "9ca98578a792293ac603c4f2c780a3340643f66f593a5e78a9ee9b1b1bf9453b"
+    },
+    "doodads/terrain/cliffs/cliffsabaa1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "4129d7a437161f2e55b240a1a0536fb0b53ff588f5648b96d87630c0d93bfe56"
+    },
+    "doodads/terrain/cliffs/cliffsacaa1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "c0d4f34ecf6e04053457a7ffa63c7398596f99672b76a84f3a07023f7c5cb7f3"
+    },
+    "doodads/terrain/cliffs/cliffsaaca1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "36a79b82631e8a5298a19add9a77b2e38ad8f64b9b94b0a8711060b82315149a"
+    },
+    "doodads/terrain/cliffs/cliffsaacc1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "e0a621938b78b781290492e91c6d7aaa5fb7ac8eff2d8ec8b1804ae956d26ac7"
+    },
+    "doodads/terrain/cliffs/cliffsccca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "fd9501aa7d453a9adb04ed982ea8428b5db60e93041874b4bddff2e8cecdd3fa"
+    },
+    "doodads/terrain/cliffs/cliffsacca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1896,
+      "sha256": "6d32d88dd9ebe735dbda6c91076b35f18594d93160707b872784ddcce6c13da0"
+    },
+    "doodads/terrain/cliffs/cliffsacba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "40bb7364e2bca1dc6364f6f33738d9f0ea26018b681b65a95fb567e596706c13"
+    },
+    "doodads/terrain/cliffs/cliffsbacc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "737c4caead079000113e2cb2a385b852b80c04f2b95c057d7fbd352a9299199e"
+    },
+    "doodads/terrain/cliffs/cliffsbcca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "85ca42b8d31071cfe637a94ee86195c04190b9ead4f4e07e78232f128f64b320"
+    },
+    "doodads/terrain/cliffs/cliffsaabc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "a01bb56699470a02905968dfc51bc2a9a499a822179081733bc657fa05749c67"
+    },
+    "doodads/terrain/cliffs/cliffsacca1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "c2d18f645024841082e20f2a8668c6e87f4342290822d1019558c08b00575035"
+    },
+    "doodads/terrain/cliffs/cliffsacbc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2460,
+      "sha256": "19ed1f4278147e9a34f5c88bbeee20f5d4525dd306e9d1873777e6ca5094be73"
+    },
+    "doodads/terrain/cliffs/cliffsaaca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "5baad38996e78690fd56df16cd1cd8aa3706fc63552d42d99c5f3e2d6468e25e"
+    },
+    "doodads/terrain/cliffs/cliffsaacb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "c4c4fcaff894b08810cb4493e81bb4389a9cf6ddc9fab39654aef4161080504c"
+    },
+    "doodads/terrain/cliffs/cliffsaacc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "71dc0eccdb11568fcc68098776eaeed3d9f1bbd916df1f3f013b211a2ab39ff3"
+    },
+    "doodads/terrain/cliffs/cliffscacc1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "2718df901334bb431dcba01b532b03490023cc5bfdd3c9cf643852ae88c08a39"
+    },
+    "doodads/terrain/cliffs/cliffsccac1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "bbce19631760518fe64f2df0ed22e820276ae244274eb273104cd762e03e174d"
+    },
+    "doodads/terrain/cliffs/cliffscaac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "e170bd72054ea6ba17948432854de440c1fef54daf786d4df49a6a7dd0bb377f"
+    },
+    "doodads/terrain/cliffs/cliffsabaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1884,
+      "sha256": "0a998f610d90eefa914038ad43274f60fdda68739ee421c7aab60e7333cbb5fe"
+    },
+    "doodads/terrain/cliffs/cliffsabcb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2304,
+      "sha256": "74d120c5f1be678f5a1e1afdbf6b1e67c280e648ec45520fa240b15f8de85441"
+    },
+    "doodads/terrain/cliffs/cliffscbab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2172,
+      "sha256": "3633da3dff95d4135aa11a7250efe8e8a2aba981631b5281449e1605dbeef5f6"
+    },
+    "doodads/terrain/cliffs/cliffsabca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "f027812e35924e8ec0e963794af281aff3a9a4e5a72c4b48c2fc7d266b854f28"
+    },
+    "doodads/terrain/cliffs/cliffsbcba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2304,
+      "sha256": "98bd631e835c8f3ec07a4dba9532b804630267636c0e0e77940f5dbbfd216a9a"
+    },
+    "doodads/terrain/cliffs/cliffsacaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "ff7f33ad4f552b8abb8d75b0105ed562a8428c373a2f498eef40e5392e90ebdb"
+    },
+    "doodads/terrain/cliffs/cliffsccca1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2007,
+      "sha256": "038744603ce5939b3acda8b469c70c5f9d18c588f7cf95b7b4919b4766389b85"
+    },
+    "doodads/terrain/cliffs/cliffsaccc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1929,
+      "sha256": "a90dd8d25298999ea6d36e847e9ca392e399bc7e19167df8fe891ef5c8f393cd"
+    },
+    "doodads/terrain/cliffs/cliffsaccc1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1929,
+      "sha256": "208f4ea60b7e903da2852d9f5c564ce3788de97757744cbc053f7e54fb4b4c2f"
+    },
+    "doodads/terrain/cliffs/cliffsccaa0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1863,
+      "sha256": "b7522f3aaf197c1b34dc7dc9345b2646bc8cefc799d6b0d1059224f06f9692e3"
+    },
+    "doodads/terrain/cliffs/cliffsbcab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "0027a54b012d6ced613a42d569d29fb8b0f783eecf35ef5e024bb34611d7f861"
+    },
+    "doodads/terrain/cliffs/cliffsacbb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "20cfa25f5a932a5a9d00a83cb15aa056cb85aaf66c0712ae6ef6bfde64acc03f"
+    },
+    "doodads/terrain/cliffs/cliffscaca1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2517,
+      "sha256": "e55d6e835feb9d3dfccca6d58e9418f8fd68bd660aa346a7f444b279f6bc298a"
+    },
+    "doodads/terrain/cliffs/cliffscaba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2394,
+      "sha256": "ac8a58dd0bf4e0aac1374008cc2d1cf366c4a76a0dd0e482f601ba7a3fd335f8"
+    },
+    "doodads/terrain/cliffs/cliffsabbc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "f1001b25ec95a7d91ada9af7151553f8431d9a2110218b464eea9f2603d2b829"
+    },
+    "doodads/terrain/cliffs/cliffsbcac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2460,
+      "sha256": "2c34b568e5360c7afa2b1cbd67b97e07e1e317fe1ba0d2658d1338c290989d35"
+    },
+    "doodads/terrain/cliffs/cliffsabcc0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "f9eef2b35b4c0236da540d806f61975aef92267c81dfeb01c0c555eb4ee2d1b8"
+    },
+    "doodads/terrain/cliffs/cliffsacac1.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2517,
+      "sha256": "1c7a0ae7a500d78787c004df2353fccc35a3e0e4ed9f626df62d292266b24995"
+    },
+    "doodads/terrain/cliffs/cliffscbba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "c5e065963e0d45555c2c8e48f4a192af81fefdde06d2408b897d1cc2fc6e1729"
+    },
+    "doodads/terrain/cliffs/cliffsccba0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2211,
+      "sha256": "f35cc43dec52cd83a95c665c7e91fb84a3b9ff7afca084aad144ea9956cf36d4"
+    },
+    "doodads/terrain/cliffs/cliffsccab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2211,
+      "sha256": "a7863cb4fce88b623a25fb8880576fb4378ab5189d97776f8b65e2c126e2e215"
+    },
+    "doodads/terrain/cliffs/cliffscacb0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2460,
+      "sha256": "5a05fd8b31e130ef9d260a35f9881e9a841117c7017d0cf0ab40c7564640c36c"
+    },
+    "doodads/terrain/cliffs/cliffsacab0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2427,
+      "sha256": "d6af01e1d22f7906bbde0a308ca03a6c5e723c9b29af5ca8a1fc1e07ac8ee93d"
+    },
+    "doodads/terrain/cliffs/cliffscbca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2460,
+      "sha256": "abcca1b4a247d76d7556570c6ec7d0727a39780c16067edb3337bd9375769e63"
+    },
+    "doodads/terrain/cliffs/cliffsbbca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2133,
+      "sha256": "3aba700970296eb3722f75ec0e31aee1fdc26ccddfd56503a5c8822b8c10356a"
+    },
+    "doodads/terrain/cliffs/cliffsacac0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2517,
+      "sha256": "074bbcd164889ef0f292ced745843ff4514e8907017add1e9adb0c5afeb936bf"
+    },
+    "environment/dnc/dncfelwood/dncfelwoodterrain/dncfelwoodterrain.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1468,
+      "sha256": "f98d03f83154c3297041ac71b95dda13cd744c129dd30c3bc75860ef0308a2de"
+    },
+    "environment/dnc/dncfelwood/dncfelwoodunit/dncfelwoodunit.mdx": {
+      "origin": "classic-reference",
+      "bytes": 1468,
+      "sha256": "ca6a901163268d229ec4602d1a22598716c5d6fbb0683f0019f0750f080041ef"
+    },
+    "doodads/terrain/cliffs/cliffscaca0.mdx": {
+      "origin": "classic-reference",
+      "bytes": 2517,
+      "sha256": "bd0b19ea125a579d858506e78dbeaad359a91827a329c09c6c3d53619e56b8c2"
+    },
+    "replaceabletextures/splats/nightelfubersplat.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 103606,
+      "sha256": "89c7b40efb499baefc94d654cc3695cfc25e588d0cc0057d13397964f7dfe8fc"
+    },
+    "replaceabletextures/splats/ancientubersplat.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 101110,
+      "sha256": "8346595a89f970a78ebfc83550743a22f5ba8a6ac81ca87f49659a6be025211d"
+    },
+    "replaceabletextures/splats/humanubersplat.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 119709,
+      "sha256": "7739a2d8340b0ca365d01c8bd512e66ebd89ca4f3b395c2f37285943b1e90173"
+    },
+    "replaceabletextures/splats/orcubersplat.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 119299,
+      "sha256": "689aea78a054d250aa275d7f54f1f951ea32391f0824c0335f5c66dfa9d457b4"
+    },
+    "replaceabletextures/splats/undeadubersplat.blp": {
+      "origin": "classic-tileset:c.mpq",
+      "bytes": 98248,
+      "sha256": "8d8130877ffdf2bcc203e6ae471c16e01464f22c5e83bb0a14bea0f9837239aa"
+    },
+    "replaceabletextures/ashenvaletree/ashentree.blp": {
+      "origin": "classic-reference",
+      "bytes": 87864,
+      "sha256": "54314c1666fb6867becfecde50167a8f43fc5165906dc87e95241ec59b6e0a36"
+    },
+    "replaceabletextures/northrendtree/northtree.blp": {
+      "origin": "classic-reference",
+      "bytes": 75897,
+      "sha256": "e13db2223f5dcfbffa70ed38012260bcb0af2f12a9afbd6e135db4f033a6582e"
+    },
+    "textures/doodads0.blp": {
+      "origin": "classic-reference",
+      "bytes": 107576,
+      "sha256": "07597713ca051b83f942d12917efe3a97fb876cfb087e4298ccac9e60ae061c4"
+    },
+    "textures/cloudsingle.blp": {
+      "origin": "classic-reference",
+      "bytes": 4430,
+      "sha256": "255a9e8ac8847d2393389bd9c83f916de9eb8f1b73b6e934df355cfba054c746"
+    },
+    "textures/ashennatural.blp": {
+      "origin": "classic-reference",
+      "bytes": 78599,
+      "sha256": "778331ffbb6d65fc08b5e619160f2bd3cfcb25fc45925d8b5ee58625b3a4ef94"
+    },
+    "textures/lordsnatural.blp": {
+      "origin": "classic-reference",
+      "bytes": 106736,
+      "sha256": "2aad47a34f29185aba2ce23355ee88d62dbfa3db56cbb3611e298b933e7145f0"
+    },
+    "textures/ashenrocks.blp": {
+      "origin": "classic-reference",
+      "bytes": 99982,
+      "sha256": "dcc63ef4b0098f6a8cd219b77081851c844b08cc3c6b9e1f80d2b79235a4580f"
+    },
+    "textures/ruins_plantlife.blp": {
+      "origin": "classic-reference",
+      "bytes": 111299,
+      "sha256": "6b63d8b8519a12ab40039dd4a6318d22367b9d4c5430edac29aa953d185ae483"
+    },
+    "textures/yellow_glow3.blp": {
+      "origin": "classic-reference",
+      "bytes": 2146,
+      "sha256": "a1b87bb8c1cd66c4f01e4edc601b81f12b26ba314a37f3fceaba9fea0581b44b"
+    },
+    "textures/clouds8x8.blp": {
+      "origin": "classic-reference",
+      "bytes": 117606,
+      "sha256": "0e07abf3289320564628e4359652e738c015cd7930d840b68e4d24b096ea88ea"
+    },
+    "textures/felwoodstructures.blp": {
+      "origin": "classic-reference",
+      "bytes": 89669,
+      "sha256": "32c2fa318668ae337ca5840e42beed61d4cb375d3bab422376243bf49bc10005"
+    },
+    "textures/northrendnatural02.blp": {
+      "origin": "classic-reference",
+      "bytes": 97296,
+      "sha256": "00fecefdd1ae6d78e18089b05274bc867d14e5e4b0ad41a545359ce2d40e7e23"
+    },
+    "replaceabletextures/weather/clouds8x8.blp": {
+      "origin": "classic-reference",
+      "bytes": 118666,
+      "sha256": "6ce87e14a5f129cf390531660803694f13e44fc25dba05ff2853c7a622f0fc56"
+    },
+    "textures/dust5a.blp": {
+      "origin": "classic-reference",
+      "bytes": 3014,
+      "sha256": "4e61eb9a97de2d4ea94b3558d1350da267b85514ee2e680eed9eac18420727a6"
+    },
+    "textures/citystructures.blp": {
+      "origin": "classic-reference",
+      "bytes": 98915,
+      "sha256": "5063ea00262c50d96dd9e5ef935195bd88cf2d3db4dd2ad90685c4bdb5463332"
+    },
+    "textures/genericglow1.blp": {
+      "origin": "classic-reference",
+      "bytes": 1755,
+      "sha256": "a45356de8e41f93b5d9df76a8fcda95bc4cf502956c49ccb7b7b2469f0bdbdbc"
+    },
+    "textures/smoke.blp": {
+      "origin": "classic-reference",
+      "bytes": 2010,
+      "sha256": "581632d6d12124c4ae148594c7245ff46d91322a781deee7570a76550e0d1bd3"
+    },
+    "replaceabletextures/teamglow/teamglow00.blp": {
+      "origin": "classic-reference",
+      "bytes": 1655,
+      "sha256": "bfc0800307b317b820ee786e5c9587a13893f158f37680672bd98e077c923c38"
+    },
+    "textures/icecrowndoodads0.blp": {
+      "origin": "classic-reference",
+      "bytes": 102371,
+      "sha256": "5f55272aaf663399f110d61d7727f4f49197597f1a68457fdc14805aec1aa9f9"
+    },
+    "textures/water00-0.blp": {
+      "origin": "classic-reference",
+      "bytes": 15729,
+      "sha256": "69b4c15af514728fb43f43ecd8c74c0efbe8b692c6227ad34680ce5485867dcb"
+    },
+    "textures/white_64_foam1.blp": {
+      "origin": "classic-reference",
+      "bytes": 3144,
+      "sha256": "800520a6295a2b5bdbf94b7f3564d28fdfe44af560925c3378dda40bf876abfc"
+    },
+    "textures/felwoodnatural.blp": {
+      "origin": "classic-reference",
+      "bytes": 92028,
+      "sha256": "d348ccd86e5beb8c2cd6a6543c46375285c4da6d4a31ad2a77e45b2c8ce25aad"
+    },
+    "textures/shorelineparticlexy.blp": {
+      "origin": "classic-reference",
+      "bytes": 9938,
+      "sha256": "e5b9f12c6d482d7f9c43a414c2239754338ede82c1c5f754f35f4c17706378b7"
+    },
+    "textures/grad6.blp": {
+      "origin": "classic-reference",
+      "bytes": 3394,
+      "sha256": "10b8d74de7259899a9ec6dac374d0f081c40e5b608175316b158a077216be0e9"
+    },
+    "textures/wharf.blp": {
+      "origin": "classic-reference",
+      "bytes": 70066,
+      "sha256": "54b910aa2330b65846a89aba3f5d896d6863b06b457c106090e50d3c4eed4f9b"
+    },
+    "doodads/cinematic/glowingrunes/glowcolors.blp": {
+      "origin": "classic-reference",
+      "bytes": 7035,
+      "sha256": "16154dc39f334b2d84e10e46859a800f3af8b5b7911e646ee1f68cb0dd09664c"
+    },
+    "textures/blue_star2.blp": {
+      "origin": "classic-reference",
+      "bytes": 3822,
+      "sha256": "977ffdfed2e71d279e017bf87b628bb18b3060515ef74b081e184a8c8aa0e429"
+    },
+    "doodads/cinematic/glowingrunes/glowingrunescolor.blp": {
+      "origin": "classic-reference",
+      "bytes": 38998,
+      "sha256": "064f2fdafda215fe44a1f58dcd6dad62887bea10b649ec67b2f481308f682111"
+    },
+    "textures/doodads1.blp": {
+      "origin": "classic-reference",
+      "bytes": 106829,
+      "sha256": "18134c284b9aa3f9a448ccb272d48ff4a15f74300db5bfae3e810e3c3bed9b05"
+    },
+    "textures/northrendstructures.blp": {
+      "origin": "classic-reference",
+      "bytes": 95632,
+      "sha256": "6997473ea1c4023ea62dc0df436163826d0eaaa853964e491b410b271f1737e6"
+    },
+    "doodads/ruins/water/fishtropical/fish2.blp": {
+      "origin": "classic-reference",
+      "bytes": 5002,
+      "sha256": "4061b106c3e7fd0f959057422a169ea4cddc2998e526bf0a8c25316a0ce0e3e6"
+    },
+    "replaceabletextures/ashenvaletree/ashencanopytree.blp": {
+      "origin": "classic-reference",
+      "bytes": 89954,
+      "sha256": "a204f1ad99300029614c47ece08766d2369a1d517a99e8540bf89b6e6aef1f7b"
+    },
+    "textures/waterblobs1.blp": {
+      "origin": "classic-reference",
+      "bytes": 4478,
+      "sha256": "fb0acad78855abd89efb880a268383a81fce971fd92bd3f5362b5eb8550297a7"
+    },
+    "textures/lensflare1ax.blp": {
+      "origin": "classic-reference",
+      "bytes": 3066,
+      "sha256": "bc56c8deaab3c5f4de292eb9eaa022e6dffa25aa8824c6ba220463ff20f72d13"
+    },
+    "textures/fish.blp": {
+      "origin": "classic-reference",
+      "bytes": 4234,
+      "sha256": "6db5bdb2160372fb7fe52b92b0be3e075ac6727b7d40e1e613532d686a03c772"
+    },
+    "textures/demonrune6.blp": {
+      "origin": "classic-reference",
+      "bytes": 6612,
+      "sha256": "2fad5795e3c03e9c70d7b985f260b663aee5b636142e862f24d758a9db913e01"
+    },
+    "textures/demongate.blp": {
+      "origin": "classic-reference",
+      "bytes": 81556,
+      "sha256": "d2c3e7cd3227641c4033c9b79eb738104a9531bf8e4ed7db8ff276f92160a88e"
+    },
+    "textures/outlanddoodads.blp": {
+      "origin": "classic-reference",
+      "bytes": 76397,
+      "sha256": "56eca63efe0be15f100e09af5c6aa47e86b6e96bb2bae1da17cee49829e2c02e"
+    },
+    "textures/dust3x.blp": {
+      "origin": "classic-reference",
+      "bytes": 6050,
+      "sha256": "31ad76beabea1edcf55dafda4d65ae7dad747354c99634b0d35aa1f88e540c69"
+    },
+    "doodads/ashenvale/props/keeperstatue/keeperstatue.blp": {
+      "origin": "classic-reference",
+      "bytes": 101766,
+      "sha256": "020601d86101d591e1a6b43b1bbd6c2a69484f6ac823e675c5e42d5dc2ae62e2"
+    },
+    "doodads/ashenvale/props/sentinelstatue/ashenstatuesmall.blp": {
+      "origin": "classic-reference",
+      "bytes": 19883,
+      "sha256": "6431768d9f2ed5521182875c122089b4c483c02fe0c31fa36bb6546b98867a1d"
+    },
+    "textures/white.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "2056b1002ea638acb913427a6d40643041c628adbd788011d11e3b22073f80ca"
+    },
+    "doodads/ruins/water/fishschool/fishblue.blp": {
+      "origin": "classic-reference",
+      "bytes": 6400,
+      "sha256": "a7985a20ed3421643ebadccfe4b8c547ce3d6b1da494e5d5013ecdf815d34e4d"
+    },
+    "doodads/ruins/water/fishschool/fishgreen.blp": {
+      "origin": "classic-reference",
+      "bytes": 6387,
+      "sha256": "c0fc1bb740126a5905bdb2de1bf9019f6209728018c613f25751e7da826b007e"
+    },
+    "textures/ashenstructures.blp": {
+      "origin": "classic-reference",
+      "bytes": 82197,
+      "sha256": "6eaa6ed3132397e7ca4a1ddbb33af480a3bc7ebba14c278852d59994dd7307c3"
+    },
+    "doodads/lordaeronsummer/props/cauldronwithheads/bubbleparticle.blp": {
+      "origin": "classic-reference",
+      "bytes": 2129,
+      "sha256": "69e67e642fe89908ef1f7636827d2b8cd61342b432d8c04baca3ddd5a902abf7"
+    },
+    "replaceabletextures/teamcolor/teamcolor12.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "02ae9b33df5e996d3ded9de3d515fb6aa60720912e309885c495ba289afeb48a"
+    },
+    "buildings/other/ammodump/sky32.blp": {
+      "origin": "classic-reference",
+      "bytes": 2672,
+      "sha256": "50f03929d849af766dfcd82d41bb312029268219860e9eda1cba26ed7bca8f5b"
+    },
+    "textures/background.blp": {
+      "origin": "classic-reference",
+      "bytes": 2174,
+      "sha256": "b6f396b5b03a1abd196e883d106b52a53f8ca2e0a4308eafb62889097dce6faf"
+    },
+    "textures/goblinammodump.blp": {
+      "origin": "classic-reference",
+      "bytes": 76736,
+      "sha256": "12eec4f6f8dcdff7eb15283b751d4d3db9a88f603648044704eb75963994e897"
+    },
+    "textures/yellow_glow.blp": {
+      "origin": "classic-reference",
+      "bytes": 2265,
+      "sha256": "a02958b0cd074fd01f1d83388a964aeaa84f633149dc07dbb5633f51b5f284ba"
+    },
+    "textures/demonrune3.blp": {
+      "origin": "classic-reference",
+      "bytes": 7632,
+      "sha256": "479eb185d8eeaf63ddb86b46a55ee39e9650107608eecc634b9fd3616d424c92"
+    },
+    "textures/acolyte.blp": {
+      "origin": "classic-reference",
+      "bytes": 94896,
+      "sha256": "954e410b0c59dd2150ccc63a89e373316f1ebce8222308d4f37cc32d29b831e8"
+    },
+    "textures/green_star.blp": {
+      "origin": "classic-reference",
+      "bytes": 3612,
+      "sha256": "b55054ad11e9f21b0a44331a442b5c19318ca459d1d25df8eee10780cfc6e2d4"
+    },
+    "textures/gutz.blp": {
+      "origin": "classic-reference",
+      "bytes": 32988,
+      "sha256": "e60d550b8f426f2740159cafc1844c648556d1983914b2c72dfbd4843449490c"
+    },
+    "textures/goblinmerchant1.blp": {
+      "origin": "classic-reference",
+      "bytes": 55808,
+      "sha256": "789a9023455e380cd64a3dfacb70927ed1861c1265967315f939e81613d6a3e8"
+    },
+    "buildings/other/merchant/goblin.blp": {
+      "origin": "classic-reference",
+      "bytes": 17359,
+      "sha256": "b8398f63c9bb6231dcc36fcef9f1b5616fc5a3e2b7d917ff2e29843719879e6b"
+    },
+    "textures/goblinmerchant.blp": {
+      "origin": "classic-reference",
+      "bytes": 25223,
+      "sha256": "c053d27a95e8f2065046ee767130dfda689b7d043d6281f93f09bd37c69e9a44"
+    },
+    "textures/shadow.blp": {
+      "origin": "classic-reference",
+      "bytes": 2463,
+      "sha256": "25c09333782be211d1ae36bc27edbf73eada9e5619ff0d3110524220f7320297"
+    },
+    "textures/blue_glow2.blp": {
+      "origin": "classic-reference",
+      "bytes": 1958,
+      "sha256": "dcbf0770aa792883d3d7ad0b93052d5a9a1b264ac841dae43b7876f26cbfd793"
+    },
+    "textures/fountainoflife.blp": {
+      "origin": "classic-reference",
+      "bytes": 110227,
+      "sha256": "78786930ae025c8d4d196dea7f7c8b4306f54fb86ff5121d55a30b077fb6c965"
+    },
+    "textures/star7b.blp": {
+      "origin": "classic-reference",
+      "bytes": 4044,
+      "sha256": "5902423893c11a3bcff38e271206ba77b0a85a11ee6d2b0522f3999c18cdc1e0"
+    },
+    "textures/lensflare1a.blp": {
+      "origin": "classic-reference",
+      "bytes": 3222,
+      "sha256": "465162610e94a7200d75058180ba9bb7252af93a076cafa2bc874335a4392c49"
+    },
+    "textures/butterfly.blp": {
+      "origin": "classic-reference",
+      "bytes": 4445,
+      "sha256": "7b68dd66581183a63c36f3f3a6b174419dd02e7b76846b03147406143d03fd0e"
+    },
+    "textures/deathsmug.blp": {
+      "origin": "classic-reference",
+      "bytes": 2653,
+      "sha256": "dc9bbdcbfe7892b007a82f9526e745b5fce34ddecb5332a114d228affd07f507"
+    },
+    "buildings/human/arcanesanctum/arcanesanctum.blp": {
+      "origin": "classic-reference",
+      "bytes": 94585,
+      "sha256": "878d77f632e38ac1ffed35035e2e02a543eb49e7e84cf7b70840046b5db757e5"
+    },
+    "textures/rockparticle.blp": {
+      "origin": "classic-reference",
+      "bytes": 1953,
+      "sha256": "cbb4b7810a9ca308b50cb5c963ffb0aa82b7e94c51747f18b48fee384fd46ba8"
+    },
+    "textures/spinningboard.blp": {
+      "origin": "classic-reference",
+      "bytes": 3253,
+      "sha256": "d19261f38f1c144445466e8fa1768ae680b9aaa50f48d3403f21da564e511d39"
+    },
+    "textures/cartooncloud.blp": {
+      "origin": "classic-reference",
+      "bytes": 2395,
+      "sha256": "cf328b5865d3a92093f07e88d8c4c48332de957f9c1b840361ea496ab4b3c0e5"
+    },
+    "textures/humanbase.blp": {
+      "origin": "classic-reference",
+      "bytes": 22486,
+      "sha256": "4df79837ee7bc406d492b9fd134cb05d98eec16edd77b6301478ea84d65373bc"
+    },
+    "textures/purple_star.blp": {
+      "origin": "classic-reference",
+      "bytes": 3854,
+      "sha256": "cfe1340fe5ef7588d9dd0e03be495d63bec5fc0b3ac65e8d7b7cf3ff8331e606"
+    },
+    "replaceabletextures/teamglow/teamglow12.blp": {
+      "origin": "classic-reference",
+      "bytes": 1655,
+      "sha256": "0f341c3be7b6c43214c54c033d4f62e3947ca6fb027d878e61ff103bb9415cd5"
+    },
+    "units/human/heromountainking/heromountainkingavatar.blp": {
+      "origin": "classic-reference",
+      "bytes": 94373,
+      "sha256": "79f2105253af54284083440194d50e97d4981eef26e3d75322fc5145b94c1935"
+    },
+    "textures/heromountainking.blp": {
+      "origin": "classic-reference",
+      "bytes": 77979,
+      "sha256": "b1a1791e42378ef7c3c0a66e86d4b3ee34211d0700de7fdac60e1acaff87c5d9"
+    },
+    "textures/genericglowfaded.blp": {
+      "origin": "classic-reference",
+      "bytes": 8215,
+      "sha256": "aa77fb0d8d826f325b96b4f9266bb82f2d4152909ee94dd59f8b8a75a86c8f3d"
+    },
+    "textures/star2_32.blp": {
+      "origin": "classic-reference",
+      "bytes": 2568,
+      "sha256": "58becb3b4a758b2d0dbde44584f78d975b43979fc49ae176c6c2cc748858079f"
+    },
+    "textures/genericglow64.blp": {
+      "origin": "classic-reference",
+      "bytes": 3484,
+      "sha256": "e2d02637d2505a9486877fb96a1b0a427d6d21726b4353e0483f1452da791fef"
+    },
+    "units/critters/elfvillagerwoman/elfvillagerwoman.blp": {
+      "origin": "classic-reference",
+      "bytes": 79508,
+      "sha256": "5e369af6204e0488ffc26d9ecd3a664b2d92cf1dbce2ec732cb5ef11ee788d18"
+    },
+    "textures/star2.blp": {
+      "origin": "classic-reference",
+      "bytes": 9039,
+      "sha256": "dc9e079533cddbb19f90d6968ed885e38c613a9769d898749a3e62d3cb349d08"
+    },
+    "textures/rootbase.blp": {
+      "origin": "classic-reference",
+      "bytes": 24219,
+      "sha256": "34fabcb70acb11fa61ff654730514dcdb2b2f42fbf1962b982c828b960c0f9d1"
+    },
+    "units/creeps/humanmage/humanmage.blp": {
+      "origin": "classic-reference",
+      "bytes": 64187,
+      "sha256": "5be75a3fbf8fbddb5894aebb8427e938fc634d6ae4749bd5b89aaf9e0907ae59"
+    },
+    "textures/yellow_star_dim.blp": {
+      "origin": "classic-reference",
+      "bytes": 3724,
+      "sha256": "45d936c52a8e92240851fbfdb0f81444efdacf5656c0588115f93702575659ec"
+    },
+    "buildings/nightelf/ancientofwonder/ancientofwonders.blp": {
+      "origin": "classic-reference",
+      "bytes": 193192,
+      "sha256": "7f73cd8dcc5296797bb403da72ebfbc639a18eee2556f2813c427978d93f32d7"
+    },
+    "units/creeps/watcher/watcher.blp": {
+      "origin": "classic-reference",
+      "bytes": 101452,
+      "sha256": "6d9fc285d399d8d120ffd9bc855230821e2622582a7c83491c6d6492233a1f7f"
+    },
+    "textures/shockwave10.blp": {
+      "origin": "classic-reference",
+      "bytes": 9889,
+      "sha256": "8e6c572e8077f6246397a68c62e65364502e5faf10e6e773e28240a0b18462be"
+    },
+    "units/critters/highelfpeasant/highelfpeasant.blp": {
+      "origin": "classic-reference",
+      "bytes": 81337,
+      "sha256": "a06469330b2244c7250adb920abca1c495a0507c4af1d00c40185ec114eb4c1f"
+    },
+    "replaceabletextures/teamglow/teamglow01.blp": {
+      "origin": "classic-reference",
+      "bytes": 1709,
+      "sha256": "c36510d9886113d75e484bc6599ec75f1afac6cd5fd8113cafc0a0ae3542d2b1"
+    },
+    "textures/dust3.blp": {
+      "origin": "classic-reference",
+      "bytes": 4987,
+      "sha256": "339c746aa6d54a4ea901ce3eb47aa717e1170a97d91b0c6ed4ec28facca6be39"
+    },
+    "textures/dust5.blp": {
+      "origin": "classic-reference",
+      "bytes": 4694,
+      "sha256": "b68eeba061d22fcbca81c8b8142a4ee8262dae06f9f54777203a45bc64681971"
+    },
+    "replaceabletextures/weather/cloudsingleflat.blp": {
+      "origin": "classic-reference",
+      "bytes": 3642,
+      "sha256": "81e07179b3e1504b67dc0ee67fe1056d0584b932ef6f9d5188a37cfb15f9e415"
+    },
+    "units/critters/villagerman1/villagermale1.blp": {
+      "origin": "classic-reference",
+      "bytes": 61955,
+      "sha256": "c02fad471b1548aa00f81828787878795dbc8a3c283b06c797e189447999ffa7"
+    },
+    "textures/genericglow2c.blp": {
+      "origin": "classic-reference",
+      "bytes": 7575,
+      "sha256": "b13dbf0223cd16a0d3bb5f20a6d6d427980b467aa0343b3efbc1ea80145a9569"
+    },
+    "units/other/bloodelflieutenant/bloodelflieutenant.blp": {
+      "origin": "classic-reference",
+      "bytes": 91925,
+      "sha256": "787d5f5f4bcc153f9c6d5c89464d759c0ff64fe8843fee10a8aae8d9ac75dd12"
+    },
+    "textures/star4.blp": {
+      "origin": "classic-reference",
+      "bytes": 7771,
+      "sha256": "226e4006f97c3a0e282eff2cd44c0336c541cf2f15e88ecfc3062c19ac6fe51b"
+    },
+    "doodads/ashenvale/structures/worldtree/worldtree256.blp": {
+      "origin": "classic-reference",
+      "bytes": 105245,
+      "sha256": "e5696af644cfb70ecef88aa3592586e6927280b0afe2db63ea846b59d632ab1e"
+    },
+    "textures/clouds8x8fire.blp": {
+      "origin": "classic-reference",
+      "bytes": 144037,
+      "sha256": "f78c6653af9f43e01060814cef22b5b724cd817d9821755ec123ca17787931dd"
+    },
+    "sharedmodels/teamglow00.tga": {
+      "origin": "classic-reference",
+      "bytes": 3116,
+      "sha256": "8eb294c3ab4cd832baed04cd182e853df3ac555da5081967a71ec97180393fdd"
+    },
+    "replaceabletextures/teamcolor/teamcolor00.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "db8efb0a2d76cb4e472c3395086f35391a25c81760509dc58ed109b79e1b9ef6"
+    },
+    "buildings/nightelf/altarofelders/altar.blp": {
+      "origin": "classic-reference",
+      "bytes": 93986,
+      "sha256": "68c08ad5769a836629a1f36ed9120a35f523f04faaab0b3ba05afe61fc73fe99"
+    },
+    "buildings/nightelf/ancientoflore/ancientoflore.blp": {
+      "origin": "classic-reference",
+      "bytes": 127195,
+      "sha256": "352bfbd280a6a3eebfec76aed9a45dfdb5fa030a4d6c75369a710d0ec62fef47"
+    },
+    "buildings/nightelf/entangledgoldmine/lightbush.blp": {
+      "origin": "classic-reference",
+      "bytes": 31431,
+      "sha256": "9d1121578a27f0ae65c2eed5fc576d6ed9f6b13d3276f98a3c1f95dccf598482"
+    },
+    "buildings/nightelf/ancientprotector/ancientprotector.blp": {
+      "origin": "classic-reference",
+      "bytes": 96127,
+      "sha256": "6f7d587ee48e7f26de1222d1db12fc33b7fa1b5bd8389eff96a3db29c0f28593"
+    },
+    "buildings/nightelf/ancientofwar/ancientofwar1.blp": {
+      "origin": "classic-reference",
+      "bytes": 119531,
+      "sha256": "233ae67a7b029b4092a1ab2eeaf24ccbe8d03fe0478954fad18e696d6cfab867"
+    },
+    "textures/star4_32.blp": {
+      "origin": "classic-reference",
+      "bytes": 1855,
+      "sha256": "c4c160bf93862e7ad2a74d448b7d65d777e32496e3858755816c6e200b5caebf"
+    },
+    "buildings/nightelf/moonwell/moonwell.blp": {
+      "origin": "classic-reference",
+      "bytes": 88950,
+      "sha256": "ab0e0a88c54eaca5e167331b19431b006859cf75b5b0424c5b31835cf491d56e"
+    },
+    "buildings/nightelf/ancientprotector/db-rock.blp": {
+      "origin": "classic-reference",
+      "bytes": 5792,
+      "sha256": "8cae6eec0fc1645b5b7565258fe80170cf39b572940f5a347b980f327e50eec3"
+    },
+    "textures/ribbonne1_blue.blp": {
+      "origin": "classic-reference",
+      "bytes": 3626,
+      "sha256": "7d4037fd10d8d5806a02f3001199a123cf195e167a843ce804da5bd20af70795"
+    },
+    "buildings/nightelf/ancientofwind/ancientofthewind.blp": {
+      "origin": "classic-reference",
+      "bytes": 109969,
+      "sha256": "e7b960e94f0c562de133b65cd08a99b1d09c203e0a6376aa4e51884e5d82dd48"
+    },
+    "buildings/nightelf/huntershall/hunter'shall.blp": {
+      "origin": "classic-reference",
+      "bytes": 66249,
+      "sha256": "b5397bb38edd53488fe7caaca2d7dbd3dc033e4a66b0d070a7c6134abc65eb0a"
+    },
+    "replaceabletextures/teamglow/teamglow08.blp": {
+      "origin": "classic-reference",
+      "bytes": 1841,
+      "sha256": "2af22a9de078166f22c3e615832414ec53d99e5186fae50070fda4fc009afd47"
+    },
+    "textures/nightelfbase.blp": {
+      "origin": "classic-reference",
+      "bytes": 43177,
+      "sha256": "22cd1a7ed6afffb675cb86e0a25d960cd49fa16f536e48162b8ffc8a684d7034"
+    },
+    "buildings/other/fountainoflifedefiled/flaredefiled.blp": {
+      "origin": "classic-reference",
+      "bytes": 2242,
+      "sha256": "089a7a630cf6710db5f8311387db99ad239a4dff0b85c195ab1fd8bb9078769c"
+    },
+    "replaceabletextures/teamcolor/teamcolor06.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "d799d93194182a56cd8cec408e11214ff5b965fee850bed72a2ec90331dddc98"
+    },
+    "buildings/other/magetower/towerofthesun.blp": {
+      "origin": "classic-reference",
+      "bytes": 94809,
+      "sha256": "66c94f4c40810b7fba77b77035ca70fcbae653476d2fb25cc08595ae11c5af60"
+    },
+    "buildings/other/fountainoflifedefiled/fountainoflifedefiled.blp": {
+      "origin": "classic-reference",
+      "bytes": 110164,
+      "sha256": "271902773317adc3cdf58d88bbbfff4f6fcde59b78abac177ee8cccaca624414"
+    },
+    "buildings/undead/tombofrelics/tombofrelics.blp": {
+      "origin": "classic-reference",
+      "bytes": 80312,
+      "sha256": "e2879752c2cffaa57e2b727fc995d3c17302e41fc45cbcc46f9037cec5c63b8e"
+    },
+    "replaceabletextures/teamglow/teamglow06.blp": {
+      "origin": "classic-reference",
+      "bytes": 1677,
+      "sha256": "487161ac56e96ecf5bf0aa92bf2c2fa48afb7f0c0ee9ceec996b8b5e17dee03d"
+    },
+    "textures/crystalopaque.blp": {
+      "origin": "classic-reference",
+      "bytes": 41054,
+      "sha256": "9a95259e24d9f989f4d1639078b2ebe18d2fb10b50a9146396829f3ce66d458e"
+    },
+    "textures/frozenthrone.blp": {
+      "origin": "classic-reference",
+      "bytes": 270314,
+      "sha256": "155d34dffe0f683525e7e77de6f5bac0dd882ddab84dbada713392d29432b932"
+    },
+    "textures/bluewaves.blp": {
+      "origin": "classic-reference",
+      "bytes": 4032,
+      "sha256": "e7d0827aac207d9a61ff60657e45afe59244c6dd4dbe30e3e14fc23ce405e539"
+    },
+    "textures/ghost2.blp": {
+      "origin": "classic-reference",
+      "bytes": 3962,
+      "sha256": "0225ffcefdfe95fd308cf12881b142cd8a1656dbfc282748a73a01d82987c18c"
+    },
+    "textures/nerzularmor.blp": {
+      "origin": "classic-reference",
+      "bytes": 275946,
+      "sha256": "372d4087151456ac9eeaa668281e3c0edbdb7d9ff8e512ae03110927b42e91d0"
+    },
+    "textures/shockwavewater1.blp": {
+      "origin": "classic-reference",
+      "bytes": 12173,
+      "sha256": "420c9e802c84cf7708452b92d10400c6716118ee951bc2440ee38c14de5bf21c"
+    },
+    "textures/newzigguratscarycreepytex.blp": {
+      "origin": "classic-reference",
+      "bytes": 96237,
+      "sha256": "f5dc912645e03d9e123a2a75509f973a315abd457108622b891a7e285501c51d"
+    },
+    "textures/bluesqglow.blp": {
+      "origin": "classic-reference",
+      "bytes": 2208,
+      "sha256": "52250525d58b4dba9e777f64f664aa18ac7671b51aa146ccf44dd84906f5c8cf"
+    },
+    "textures/genericglowx.blp": {
+      "origin": "classic-reference",
+      "bytes": 2222,
+      "sha256": "a05f52be1487c09a9d67057f16b10c3d0a46bf2ccbce3130a492be850514ebcd"
+    },
+    "buildings/undead/crypt/newcreepyscarycrypt.blp": {
+      "origin": "classic-reference",
+      "bytes": 93068,
+      "sha256": "6c81c76bfeab5363fa264b74746e269428b49385264f23016a836149fd922910"
+    },
+    "buildings/undead/templeofthedamned/newtempleofthedamned.blp": {
+      "origin": "classic-reference",
+      "bytes": 86748,
+      "sha256": "c79e331bc8ef4692ac3beca872babb0c1bb669af145001e132deba139ac2df2e"
+    },
+    "buildings/other/circleofpower/rune2.blp": {
+      "origin": "classic-reference",
+      "bytes": 6981,
+      "sha256": "e899e133e8dee1c34660cd9061a4adfe5e16ffd0de935a92e68ef92e7f6431f1"
+    },
+    "buildings/undead/sacrificialpit/creepysacrificialpit.blp": {
+      "origin": "classic-reference",
+      "bytes": 69962,
+      "sha256": "668ea64fb3f604da8329ab171e5d9a1d912eaa460d705d72762a2c02a0f8e99c"
+    },
+    "replaceabletextures/teamcolor/teamcolor01.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "5521bd761c6bfdb34f742fb3acbe9b8d3a19d07bf6da323a2216e478b5817564"
+    },
+    "textures/boneyardcreepy.blp": {
+      "origin": "classic-reference",
+      "bytes": 93880,
+      "sha256": "c0cf852e23f86f8ed1c55f2d84e9fcaab97f8f50edf969546ead983359823e2b"
+    },
+    "buildings/other/circleofpower/circleofpower.blp": {
+      "origin": "classic-reference",
+      "bytes": 51032,
+      "sha256": "b64c46be3f64b5cae940da942d6256a3033f9455ebd8bef0dc0164f61cbf71d3"
+    },
+    "replaceabletextures/teamglow/teamglow02.blp": {
+      "origin": "classic-reference",
+      "bytes": 1807,
+      "sha256": "487721616303f1a84969fccff2b1df2c34a4a28135f4f701b88f4d575f50e18e"
+    },
+    "replaceabletextures/teamcolor/teamcolor02.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "1a33afc10d67014dba95ec31c185bddb2ee62d5d7c62626af9ac3bbbcea36ce8"
+    },
+    "textures/aurarune8.blp": {
+      "origin": "classic-reference",
+      "bytes": 73852,
+      "sha256": "130fd6da3e89357944b20914ad276d220e084ccb4df612cba330a15fb66a3746"
+    },
+    "replaceabletextures/teamcolor/teamcolor03.blp": {
+      "origin": "classic-reference",
+      "bytes": 1364,
+      "sha256": "879d401e6b8dd2005054688c295d6554c47b914dce0795440ddb676724a2ef91"
+    },
+    "replaceabletextures/teamglow/teamglow03.blp": {
+      "origin": "classic-reference",
+      "bytes": 1680,
+      "sha256": "ee0e4d372ebb66e254ed4b1f63aad46c74cb55a21778f1539ea5e10f86bf9743"
+    },
+    "replaceabletextures/teamcolor/teamcolor04.blp": {
+      "origin": "classic-reference",
+      "bytes": 1370,
+      "sha256": "f5b015cfe28d21d3c36e14acc2b141f0be30699cdcd644d75e6748a0b8ed41f5"
+    },
+    "replaceabletextures/teamglow/teamglow04.blp": {
+      "origin": "classic-reference",
+      "bytes": 1795,
+      "sha256": "abce29ecb184869e17799881f067b9dff9b1da6d2af97a05e56ce33cb8843adf"
+    },
+    "replaceabletextures/teamglow/teamglow05.blp": {
+      "origin": "classic-reference",
+      "bytes": 1781,
+      "sha256": "a4f7b72f5d530eb52cabd56f64ebf8e9020a00a9d993a55a2a422e3470adbfd6"
+    },
+    "replaceabletextures/teamcolor/teamcolor05.blp": {
+      "origin": "classic-reference",
+      "bytes": 1364,
+      "sha256": "d0a23c5dd00c59cf5602535482ec2d1e4fd8a0e7f5c7b9327a255bc5b2c2ec97"
+    },
+    "replaceabletextures/teamglow/teamglow07.blp": {
+      "origin": "classic-reference",
+      "bytes": 1847,
+      "sha256": "cce904c52af44078128e109f05d5efffe0a9b71339d40644957e6ad6af159237"
+    },
+    "replaceabletextures/teamglow/teamglow09.blp": {
+      "origin": "classic-reference",
+      "bytes": 1872,
+      "sha256": "7b493a1b976c0d07c60e1521d58dba4829be8af03650fee4249e1e055371820c"
+    },
+    "replaceabletextures/teamcolor/teamcolor08.blp": {
+      "origin": "classic-reference",
+      "bytes": 1360,
+      "sha256": "eb9faf6de202dc6ed81f38d01a2b9fe26b51aa49b02d7470f65cab577ac957fa"
+    },
+    "replaceabletextures/teamcolor/teamcolor07.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "1ae0931f626db4ac9659d1331e9ca92d09c2b7407d47531fb40c74d008f28587"
+    },
+    "replaceabletextures/teamcolor/teamcolor09.blp": {
+      "origin": "classic-reference",
+      "bytes": 1364,
+      "sha256": "0acbcedbde39d7fc1ea4752482648c0402b2a906135eab911a5bffc25858e9a6"
+    },
+    "replaceabletextures/teamglow/teamglow10.blp": {
+      "origin": "classic-reference",
+      "bytes": 1679,
+      "sha256": "22b0c58ce32a9299b9a632ebadc6a07b628a92c040d4e6ee65e5dab6e111d4e0"
+    },
+    "replaceabletextures/teamcolor/teamcolor10.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "1349b880e72ba8c3dbbcc3629a43b689e19ed2fcceaf282c58f094e45e43770d"
+    },
+    "replaceabletextures/teamglow/teamglow11.blp": {
+      "origin": "classic-reference",
+      "bytes": 1638,
+      "sha256": "9135d0a7b72345eb85eb0f094abc5916d1c8f56315472240010e32823051154d"
+    },
+    "replaceabletextures/teamcolor/teamcolor11.blp": {
+      "origin": "classic-reference",
+      "bytes": 1368,
+      "sha256": "71456b84e06b13c4b2bd3ab9a72ed8bb41d117af15521516e6d88a836a3c7ddd"
+    },
+    "units/creeps/rockgolem/rocktile.blp": {
+      "origin": "classic-reference",
+      "bytes": 11648,
+      "sha256": "9a61713e7e9392b067e96a67e1efff7bf15e959a206b709f9b0ecadf55305acd"
+    },
+    "buildings/other/tavern/tavern.blp": {
+      "origin": "classic-reference",
+      "bytes": 95962,
+      "sha256": "7db127145837008eb3f4282a8397ab4c2531556937909b592933e46356b4a5d7"
+    },
+    "units/creeps/rockgolem/rockgolem2.blp": {
+      "origin": "classic-reference",
+      "bytes": 46639,
+      "sha256": "29f1091adef01ab50657dfcc6094db7482a4457ae074c7e432ea9277ab15803e"
+    },
+    "war3map.shd": {
+      "origin": "map",
+      "bytes": 262144,
+      "sha256": "71c1b6023ec8a6b168ea8c358faa9127a1f8f059c6c357c16c12df7da8bf1a0c"
+    }
+  }
+}
